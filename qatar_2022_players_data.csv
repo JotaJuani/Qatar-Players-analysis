@@ -1,0 +1,815 @@
+id_pais,nacionalidad,fifa_ranking,id_sponsor,sponsor,id_posicion,posicion,numero_playera,fecha_nacimiento,id_club,club,nombre_del_jugador,apariciones,goles_anotados,asistencias_proporcionadas,dribbles_per_90,interceptions_per_90,tackles_per_90,total_duels_won_per_90,save_percentage,clean_sheets,sponsor_utilizado/marca_usada
+1,Argentina,2,1,Adidas,1,PORTERO,23,02/09/1992,1,Aston Villa,Emiliano Martinez,7,0,0,0.0,0.0,0.0,0.65,46.67,43.0,Adidas
+1,Argentina,2,1,Adidas,1,PORTERO,1,16/10/1986,2,River,Franco Armani,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,1,PORTERO,12,20/05/1992,3,Villarreal,Geronimo Rulli,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,2,DEFENSA,19,12/02/1988,4,Benfica,Nicolas Otamendi,7,0,1,0.33,1.17,1.3,7.17,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,2,DEFENSA,8,28/10/1991,5,Sevilla,Marcos Acuna,6,0,0,1.45,0.48,2.9,7.97,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,2,DEFENSA,3,31/08/1992,6,Lyon,Nicolas Tagliafico,6,0,0,0.48,2.17,1.69,5.07,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,2,DEFENSA,6,27/06/1991,7,Real Betis,German Pezzella,3,0,0,0.0,0.0,0.0,3.16,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,2,DEFENSA,26,06/04/1998,8,Atletico Madrid,Nahuel Molina,7,1,1,0.32,0.47,1.42,1.58,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,2,DEFENSA,4,01/01/1997,5,Sevilla,Gonzalo Montiel,4,0,0,0.77,0.77,2.31,5.39,0.0,0.0,NIke
+1,Argentina,2,1,Adidas,2,DEFENSA,2,12/01/1998,3,Villarreal,Juan Foyth,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,2,DEFENSA,13,27/04/1998,9,Tottenham,Cristian Romero,7,0,0,0.16,0.49,0.82,5.09,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,2,DEFENSA,25,18/01/1998,10,Manchester United,Lisandro Martinez,5,0,0,0.3,0.9,1.5,4.19,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,3,CENTROCAMPISTA,5,29/06/1994,11,Juventus,Leandro Paredes,5,0,0,0.4,1.21,4.02,9.24,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,3,CENTROCAMPISTA,7,24/05/1994,8,Atletico Madrid,Rodrigo De Paul,7,0,0,0.6,1.05,1.79,4.64,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,3,CENTROCAMPISTA,18,12/04/1994,7,Real Betis,Guido Rodriguez,1,0,0,0.0,0.0,3.16,6.32,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,3,CENTROCAMPISTA,14,05/10/1998,12,Bayer Leverkusen,Exequiel Palacios,3,0,0,0.0,3.83,1.91,7.66,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,3,CENTROCAMPISTA,20,24/12/1998,13,Brighton,Alexis Mac Allister,6,1,1,0.97,0.49,1.46,5.85,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,3,CENTROCAMPISTA,24,17/01/2001,4,Benfica,Enzo Fernandez,7,1,1,0.8,0.48,3.52,7.83,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,3,CENTROCAMPISTA,17,26/04/2001,14,Atlanta United,Alejandro Gomez,2,0,0,0.83,0.83,1.65,8.26,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,4,DELANTERO,10,24/06/1987,15,PSG,Lionel Messi 🐐,7,7,3,3.78,0.0,0.65,6.39,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,4,DELANTERO,22,22/08/1997,16,Inter,Lautaro Martinez,6,0,0,1.89,0.38,0.0,6.81,0.0,0.0,Nike
+1,Argentina,2,1,Adidas,4,DELANTERO,21,15/11/1993,17,Roma,Paulo Dybala,2,0,0,5.62,0.0,0.0,0.0,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,4,DELANTERO,16,26/04/2001,16,Inter,Thiago Almada,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,4,DELANTERO,9,31/01/2000,18,Manchester City,Julian Alvarez,7,4,0,0.58,0.0,0.77,1.93,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,4,DELANTERO,11,14/02/1988,11,Juventus,Angel Di Maria,5,1,1,6.83,0.31,0.93,7.14,0.0,0.0,Adidas
+1,Argentina,2,1,Adidas,4,DELANTERO,15,09/03/1995,8,Atletico Madrid,Angel Correa,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+2,France,3,2,Nike,1,PORTERO,1,26/12/1986,9,Tottenham,Hugo Lloris,6,0,0,0.0,0.0,0.0,1.1,70.83,17.0,Nike
+2,France,3,2,Nike,1,PORTERO,23,27/02/1993,19,West Ham United,Alphonse Areola,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+2,France,3,2,Nike,1,PORTERO,16,28/03/1985,20,Rennes,Steve Mandanda,1,0,0,0.0,0.0,0.0,0.0,66.67,0.0,Puma
+2,France,3,2,Nike,2,DEFENSA,2,28/03/1996,21,Bayern Munich,Benjamin Pavard,1,0,0,0.0,1.01,0.0,0.0,0.0,0.0,Adidas
+2,France,3,2,Nike,2,DEFENSA,5,12/11/1998,22,Barcelona,Jules Kounde,6,0,0,0.56,1.12,2.06,4.87,0.0,0.0,Adidas
+2,France,3,2,Nike,2,DEFENSA,4,25/04/1993,23,Man Utd,Raphael Varane,6,0,0,0.17,1.04,0.17,1.9,0.0,0.0,Puma
+2,France,3,2,Nike,2,DEFENSA,3,11/03/1998,15,PSG,Axel Disasi,3,0,0,2.0,2.0,4.0,14.0,0.0,0.0,Nike
+2,France,3,2,Nike,2,DEFENSA,17,24/03/2001,24,Arsenal,William Saliba,1,0,0,3.33,0.0,0.0,6.67,0.0,0.0,Nike
+2,France,3,2,Nike,2,DEFENSA,22,06/10/1994,25,AC Milan,Theo Hernandez,6,1,2,0.35,0.71,2.83,8.68,0.0,0.0,Nike
+2,France,3,3,Nke,2,DEFENSA,21,14/02/1996,21,Bayern Munich,Lucas Hernandez,1,0,0,0.0,0.0,6.92,6.92,0.0,0.0,NIke
+2,France,3,2,Nike,2,DEFENSA,24,25/05/1999,26,Liverpool,Ibrahima Konate,5,0,0,0.0,2.16,4.62,8.94,0.0,0.0,Nike
+2,France,3,2,Nike,2,DEFENSA,18,27/10/1998,21,Bayern Munich,Dayot Upamecano,5,0,0,0.0,1.12,2.06,5.25,0.0,0.0,Nike
+2,France,3,2,Nike,3,CENTROCAMPISTA,14,03/04/1995,11,Juventus,Adrien Rabiot,6,1,1,0.75,1.86,2.24,8.95,0.0,0.0,Nike
+2,France,3,2,Nike,3,CENTROCAMPISTA,8,27/01/2000,27,Real Madrid,Aurelien Tchouaméni,7,1,0,0.72,2.02,1.59,4.91,0.0,0.0,Nike
+2,France,3,2,Nike,3,CENTROCAMPISTA,19,10/01/1999,28,Monaco,Youssouf Fofana,6,0,0,0.8,1.21,3.21,5.22,0.0,0.0,Adidas
+2,France,3,2,Nike,3,CENTROCAMPISTA,6,14/04/1999,29,Marseille,Matteo Guendouzi,1,0,0,0.0,0.0,1.14,4.56,0.0,0.0,Adidas
+2,France,3,2,Nike,3,CENTROCAMPISTA,15,01/03/1999,29,Marseille,Jordan Veretout,1,0,0,0.0,0.0,2.86,2.86,0.0,0.0,Adidas
+2,France,3,2,Nike,3,CENTROCAMPISTA,25,10/11/2002,27,Real Madrid,Eduardo Camavinga,2,0,0,1.94,1.94,9.06,17.48,0.0,0.0,Nike
+2,France,3,2,Nike,4,DELANTERO,20,13/06/1996,21,Bayern Munich,Kingsley Coman,6,0,0,4.91,1.64,1.64,8.73,0.0,0.0,Puma
+2,France,3,2,Nike,4,DELANTERO,10,20/12/1998,15,PSG,Kylian Mbappe,7,8,2,7.24,0.0,0.0,5.12,0.0,0.0,Nike
+2,France,3,2,Nike,4,DELANTERO,9,30/09/1986,25,AC Milan,Olivier Giroud,6,4,0,0.0,0.21,0.21,9.12,0.0,0.0,Puma
+2,France,3,2,Nike,4,DELANTERO,7,21/03/1991,8,Atletico Madrid,Antoine Griezmann,7,0,3,1.51,1.34,2.34,6.19,0.0,0.0,Puma
+2,France,3,2,Nike,4,DELANTERO,11,15/05/1997,22,Barcelona,Ousmane Dembele,7,0,2,3.9,0.62,2.47,5.75,0.0,0.0,Nike
+2,France,3,2,Nike,4,DELANTERO,12,05/12/1998,30,Eintracht Frankfurt,Randal Kolo Muani,3,1,0,3.5,0.5,3.5,16.5,0.0,0.0,Nike
+2,France,3,2,Nike,4,DELANTERO,26,06/08/1997,31,Borussia Monchengladbach,Marcus Thuram,5,1,2,5.55,0.0,1.85,18.49,0.0,0.0,Nike
+3,Croatia,7,2,Nike,1,PORTERO,1,09/01/1995,32,Dinamo Zagreb,Dominik Livakovic,7,0,0,0.0,0.0,0.0,0.26,78.12,28.0,Adidas
+3,Croatia,7,2,Nike,1,PORTERO,23,01/02/1995,33,Osijek,Ivica Ivusic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+3,Croatia,7,2,Nike,1,PORTERO,12,18/01/1996,8,Atletico Madrid,Ivo Grbic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+3,Croatia,7,2,Nike,2,DEFENSA,21,29/04/1989,34,AEK Athens,Domagoj Vida,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+3,Croatia,7,2,Nike,2,DEFENSA,6,05/07/1989,35,Zenit,Dejan Lovren,6,0,1,0.0,1.38,0.9,6.34,0.0,0.0,Puma
+3,Croatia,7,2,Nike,2,DEFENSA,3,10/11/1992,36,Rangers,Borna Barisic,1,0,0,0.0,0.0,0.75,11.25,0.0,0.0,Nike
+3,Croatia,7,2,Nike,2,DEFENSA,22,16/08/1995,37,Celtic,Josip Juranovic,6,0,1,0.3,0.3,1.8,3.15,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,2,DEFENSA,19,21/01/1998,38,Stuttgart,Borna Sosa,5,0,0,0.85,0.42,2.96,5.5,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,2,DEFENSA,20,23/01/2002,39,RB Leipzig,Josko Gvardiol,7,1,0,0.13,1.57,1.3,3.0,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,2,DEFENSA,2,02/04/2000,21,Bayern Munich,Josip Stanisic,1,0,0,0.0,1.0,3.0,7.0,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,2,DEFENSA,5,24/01/1998,40,Sassuolo,Martin Erlic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+3,Croatia,7,2,Nike,2,DEFENSA,24,28/02/2000,32,Dinamo Zagreb,Josip Sutalo,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,10,09/09/1985,27,Real Madrid,Luka Modric,7,0,0,1.37,1.23,2.06,5.35,0.0,0.0,Nike
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,8,06/05/1994,41,Chelsea,Mateo Kovacic,7,0,0,2.39,0.56,3.38,7.31,0.0,0.0,Nike
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,11,16/11/1992,16,Inter,Marcelo Brozovic,6,0,0,0.97,0.65,2.11,6.01,0.0,0.0,Nike
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,15,09/02/1995,42,Atalanta,Mario Pasalic,7,0,0,1.35,1.01,2.36,7.08,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,13,04/10/1997,43,Torino,Nikola Vlasic,6,0,0,2.18,0.44,0.44,6.11,0.0,0.0,Nike
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,7,17/01/1998,20,Rennes,Lovro Majer,7,1,0,1.43,0.71,2.14,4.29,0.0,0.0,Nike
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,26,14/05/1997,30,Eintracht Frankfurt,Kristijan Jakic,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,3,CENTROCAMPISTA,25,08/09/2002,44,Red Bull Salzburg,Luka Sucic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+3,Croatia,7,2,Nike,4,DELANTERO,4,02/02/1989,9,Tottenham,Ivan Perisic,7,1,3,1.61,0.94,0.8,6.03,0.0,0.0,Nike
+3,Croatia,7,2,Nike,4,DELANTERO,9,19/06/1991,45,Hoffenheim,Andrej Kramaric,7,2,0,1.31,0.0,0.56,2.06,0.0,0.0,Adidas
+3,Croatia,7,2,Nike,4,DELANTERO,16,16/09/1997,32,Dinamo Zagreb,Bruno Petkovic,6,1,0,1.17,0.0,2.35,14.48,0.0,0.0,Nike
+3,Croatia,7,2,Nike,4,DELANTERO,18,29/12/1992,32,Dinamo Zagreb,Mislav Orsic,6,1,2,1.71,0.0,1.71,2.28,0.0,0.0,Nike
+3,Croatia,7,2,Nike,4,DELANTERO,17,22/07/1991,46,Osasuna,Ante Budimir,2,0,0,0.0,0.0,1.67,0.0,0.0,0.0,Puma
+3,Croatia,7,2,Nike,4,DELANTERO,14,26/08/1993,47,Hajduk Split,Marko Livaja,6,1,1,0.75,0.37,0.37,4.48,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,1,PORTERO,1,05/04/1991,5,Sevilla,Yassine Bounou,6,0,0,0.0,0.0,0.0,0.64,58.33,50.0,Nike
+4,Morocco,11,4,Puma,1,PORTERO,12,10/05/1989,48,Al Wehda,Munir Mohamedi,1,0,0,0.0,0.0,0.0,0.0,100.0,100.0,Nike
+4,Morocco,11,4,Puma,1,PORTERO,22,05/04/1996,49,Wydad AC,Ahmed Reda Tagnaouti,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+4,Morocco,11,4,Puma,2,DEFENSA,2,04/11/1998,15,PSG,Achraf Hakimi,7,0,1,1.56,1.28,3.84,7.39,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,2,DEFENSA,3,14/11/1997,21,Bayern Munich,Noussair Mazraoui,5,0,0,0.98,0.24,3.42,4.4,0.0,0.0,Nike
+4,Morocco,11,4,Puma,2,DEFENSA,5,30/03/1996,50,West Ham,Nayef Aguerd,4,0,0,0.0,0.76,1.02,3.56,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,2,DEFENSA,6,26/03/1990,51,Besiktas,Roman Saiss,6,0,0,0.19,0.58,0.77,3.47,0.0,0.0,Nike
+4,Morocco,11,4,Puma,2,DEFENSA,20,06/05/1999,52,Brest,Achraf Dari,3,1,0,0.0,2.89,0.48,5.78,0.0,0.0,Nike
+4,Morocco,11,4,Puma,2,DEFENSA,25,02/03/1995,49,Wydad AC,Yahia Attiyat Allah,6,0,1,0.29,0.0,1.15,2.01,0.0,0.0,Nike
+4,Morocco,11,4,Puma,2,DEFENSA,24,30/09/1993,53,Qatar SC,Badr Benoun,3,0,0,0.0,1.76,0.0,0.0,0.0,0.0,Nike
+4,Morocco,11,4,Puma,2,DEFENSA,18,29/02/1992,54,Valladolid,Jawad El Yamiq,6,0,0,0.0,1.46,1.17,5.26,0.0,0.0,Puma
+4,Morocco,11,4,Puma,3,CENTROCAMPISTA,4,21/08/1996,55,Fiorentina,Sofyan Amrabat,7,0,0,0.14,0.82,2.32,3.68,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,3,CENTROCAMPISTA,11,28/11/1996,56,Sampdoria,Abdelhamid Sabiri,5,1,0,1.5,2.5,1.5,4.0,0.0,0.0,Nike
+4,Morocco,11,4,Puma,3,CENTROCAMPISTA,15,15/11/1996,57,Standard Liege,Selim Amallah,7,0,0,0.66,1.76,2.85,6.37,0.0,0.0,Nike
+4,Morocco,11,4,Puma,3,CENTROCAMPISTA,8,19/04/2000,58,Angers,Azzedine Ounahi,7,0,0,1.89,0.95,1.26,5.21,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,3,CENTROCAMPISTA,23,10/05/2004,59,Genk,Bilal El Khannous,1,0,0,0.0,0.0,0.0,1.61,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,3,CENTROCAMPISTA,26,18/06/1991,49,Wydad AC,Yahya Jabrane,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,4,DELANTERO,7,19/03/1993,41,Chelsea,Hakim Ziyech,7,1,1,3.67,1.27,1.41,4.65,0.0,0.0,Nike
+4,Morocco,11,4,Puma,4,DELANTERO,17,17/09/1993,58,Angers,Sofiane Boufal,7,0,0,4.11,0.37,1.87,8.03,0.0,0.0,Nike
+4,Morocco,11,4,Puma,4,DELANTERO,14,18/02/2000,60,Toulouse,Zakaria Aboukhlal,4,1,0,1.23,1.23,0.0,4.94,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,4,DELANTERO,10,07/11/2000,61,Burnley,Anass Zaroury,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+4,Morocco,11,4,Puma,4,DELANTERO,16,17/12/2001,46,Osasuna,Abde Ezzalzouli,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,4,DELANTERO,13,30/10/1997,62,QPR,Ilias Chair,1,0,0,2.05,0.0,2.05,2.05,0.0,0.0,Nike
+4,Morocco,11,4,Puma,4,DELANTERO,19,01/06/1997,5,Sevilla,Youssef En-Nesyri,7,2,0,1.15,0.16,0.66,8.23,0.0,0.0,Adidas
+4,Morocco,11,4,Puma,4,DELANTERO,21,22/01/1998,63,Bari,Walid Cheddira,2,0,0,1.43,0.0,1.43,7.15,0.0,0.0,Lotto
+4,Morocco,11,4,Puma,4,DELANTERO,9,17/12/1990,64,Al-Ittihad,Abderrazak Hamdallah,4,0,0,4.22,0.0,1.41,0.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,1,PORTERO,13,22/01/1998,65,Feyenoord,Justin Bijlow,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,1,PORTERO,1,08/11/1983,66,Ajax,Remko Pasveer,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,1,PORTERO,23,07/04/1994,67,Heerenveen,Andries Noppert,5,0,0,0.0,0.0,0.0,0.0,81.82,40.0,Nike
+5,Netherlands,6,2,Nike,2,DEFENSA,17,09/03/1990,66,Ajax,Daley Blind,5,1,1,0.42,1.06,2.76,4.88,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,2,DEFENSA,6,05/02/1992,16,Inter,Stefan de Vrij,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,2,DEFENSA,4,08/07/1991,26,Liverpool,Virgil van Dijk,5,0,0,0.0,0.75,0.38,9.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,2,DEFENSA,3,12/08/1999,21,Bayern Munich,Matthijs de Ligt,2,0,0,0.0,0.0,0.0,9.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,2,DEFENSA,22,18/04/1996,16,Inter,Denzel Dumfries,5,1,2,1.12,1.31,1.5,6.19,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,2,DEFENSA,5,18/02/1995,18,Manchester City,Nathan Ake,5,0,0,0.0,1.5,1.12,6.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,2,DEFENSA,2,17/06/2001,66,Ajax,Jurrien Timber,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,2,DEFENSA,16,17/06/1999,10,Manchester United,Tyrell Malacia,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,2,DEFENSA,26,10/12/2000,12,Bayer Leverkusen,Jeremie Frimpong,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+5,Netherlands,6,2,Nike,3,CENTROCAMPISTA,21,12/05/1997,22,Barcelona,Frenkie de Jong,5,1,1,1.13,1.13,2.65,7.18,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,3,CENTROCAMPISTA,11,19/12/1991,66,Ajax,Steven Berghuis,4,0,1,1.82,0.0,0.91,2.27,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,3,CENTROCAMPISTA,15,29/03/1991,42,Atalanta,Maarten de Roon,5,0,0,0.0,0.98,3.42,7.34,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,3,CENTROCAMPISTA,20,28/02/1998,42,Atalanta,Teun Koopmeiners,5,0,1,0.41,1.24,4.15,9.12,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,3,CENTROCAMPISTA,24,16/05/2002,66,Ajax,Kenneth Taylor,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,3,CENTROCAMPISTA,25,21/04/2003,68,PSV,Xavi Simons,1,0,0,0.0,12.86,0.0,0.0,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,3,CENTROCAMPISTA,14,21/02/1993,66,Ajax,Davy Klaassen,4,1,2,0.47,0.47,1.41,3.75,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,4,DELANTERO,10,13/02/1994,22,Barcelona,Memphis Depay,2,1,0,3.88,0.0,1.55,6.21,0.0,0.0,Puma
+5,Netherlands,6,2,Nike,4,DELANTERO,9,27/08/1990,68,PSV,Luuk de Jong,1,0,0,0.0,0.0,3.21,14.46,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,4,DELANTERO,7,08/10/1997,66,Ajax,Steven Bergwijn,4,0,0,0.84,0.0,0.42,2.09,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,4,DELANTERO,18,15/06/1994,69,Antwerp,Vincent Janssen,2,0,0,0.0,0.0,2.09,6.28,0.0,0.0,Nike
+5,Netherlands,6,2,Nike,4,DELANTERO,19,07/08/1992,51,Besiktas,Wout Weghorst,4,2,0,0.0,0.0,0.0,4.43,0.0,0.0,Adidas
+5,Netherlands,6,2,Nike,4,DELANTERO,8,07/05/1999,68,PSV,Cody Gakpo,5,3,0,1.78,0.59,1.59,5.35,0.0,0.0,Puma
+5,Netherlands,6,2,Nike,4,DELANTERO,12,17/06/1999,70,Club Brugge,Noa Lang,1,0,0,0.0,12.86,0.0,0.0,0.0,0.0,Adidas
+6,England,5,2,Nike,1,PORTERO,1,07/03/1994,71,Everton,Jordan Pickford,5,0,0,0.0,0.0,0.0,0.0,63.64,60.0,Puma
+6,England,5,2,Nike,1,PORTERO,13,19/04/1992,72,Newcastle United,Nick Pope,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+6,England,5,2,Nike,1,PORTERO,23,14/05/1998,24,Arsenal,Aaron Ramsdale,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+6,England,5,2,Nike,2,DEFENSA,18,07/10/1998,26,Liverpool,Trent Alexander-Arnold,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Under Armour
+6,England,5,2,Nike,2,DEFENSA,16,25/02/1993,71,Everton,Conor Coady,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+6,England,5,2,Nike,2,DEFENSA,15,15/01/1994,9,Tottenham,Eric Dier,2,0,0,0.0,0.0,2.65,7.94,0.0,0.0,Nike
+6,England,5,2,Nike,2,DEFENSA,6,05/03/1993,10,Manchester United,Harry Maguire,5,0,1,0.42,0.84,1.47,8.16,0.0,0.0,Puma
+6,England,5,2,Nike,2,DEFENSA,3,12/07/1995,10,Manchester United,Luke Shaw,5,0,1,0.42,1.06,0.64,3.18,0.0,0.0,Adidas
+6,England,5,2,Nike,2,DEFENSA,5,28/05/1994,18,Manchester City,John Stones,5,0,0,0.21,0.21,0.41,3.3,0.0,0.0,Nike
+6,England,5,2,Nike,2,DEFENSA,12,19/09/1990,72,Newcastle United,Kieran Trippier,3,0,0,0.88,0.44,2.63,6.59,0.0,0.0,Adidas
+6,England,5,2,Nike,2,DEFENSA,2,28/05/1990,18,Manchester City,Kyle Walker,3,0,0,0.76,0.76,1.14,6.08,0.0,0.0,Puma
+6,England,5,2,Nike,3,CENTROCAMPISTA,22,29/06/2003,73,Borussia Dortmund,Jude Bellingham,5,1,1,3.04,1.3,3.26,8.26,0.0,0.0,Adidas
+6,England,5,2,Nike,3,CENTROCAMPISTA,26,06/02/2000,41,Chelsea,Conor Gallagher,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+6,England,5,2,Nike,3,CENTROCAMPISTA,8,17/06/1990,26,Liverpool,Jordan Henderson,4,1,0,0.0,0.33,1.32,3.96,0.0,0.0,Nike
+6,England,5,2,Nike,3,CENTROCAMPISTA,19,10/01/1999,41,Chelsea,Mason Mount,4,0,0,1.45,0.0,0.97,6.29,0.0,0.0,Nike
+6,England,5,2,Nike,3,CENTROCAMPISTA,14,02/12/1995,18,Manchester City,Kalvin Phillips,2,0,1,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+6,England,5,2,Nike,3,CENTROCAMPISTA,4,14/01/1999,19,West Ham United,Declan Rice,5,0,0,0.43,2.37,1.29,3.02,0.0,0.0,Adidas
+6,England,5,2,Nike,3,CENTROCAMPISTA,20,28/05/2000,18,Manchester City,Phil Foden,4,1,2,1.39,0.35,0.35,4.86,0.0,0.0,Nike
+6,England,5,2,Nike,3,CENTROCAMPISTA,7,10/09/1995,18,Manchester City,Jack Grealish,5,1,0,5.49,3.29,3.29,17.56,0.0,0.0,Nike
+6,England,5,2,Nike,4,DELANTERO,9,28/07/1993,9,Tottenham,Harry Kane,5,2,3,1.57,0.0,0.45,6.94,0.0,0.0,Nike
+6,England,5,2,Nike,4,DELANTERO,25,13/11/1996,74,Leicester City,James Maddison,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+6,England,5,2,Nike,4,DELANTERO,11,31/10/1997,10,Manchester United,Marcus Rashford,5,3,0,5.26,0.66,0.66,4.6,0.0,0.0,Nike
+6,England,5,2,Nike,4,DELANTERO,17,05/09/2001,24,Arsenal,Bukayo Saka,4,3,0,2.47,0.62,2.16,5.24,0.0,0.0,New Balance
+6,England,5,2,Nike,4,DELANTERO,10,08/12/1994,41,Chelsea,Raheem Sterling,3,1,1,1.81,0.6,0.6,4.22,0.0,0.0,New Balance
+6,England,5,2,Nike,4,DELANTERO,24,27/02/1992,72,Newcastle United,Callum Wilson,2,0,1,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+7,Brazil,1,2,Nike,1,PORTERO,1,02/10/1992,26,Liverpool,Alisson,4,0,0,0.0,0.0,0.0,0.0,71.43,50.0,Nike
+7,Brazil,1,2,Nike,1,PORTERO,23,17/08/1993,18,Manchester City,Ederson,1,0,0,0.0,0.0,0.0,0.0,66.67,0.0,Puma
+7,Brazil,1,2,Nike,1,PORTERO,12,13/12/1987,75,Palmeiras,Weverton,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+7,Brazil,1,2,Nike,2,DEFENSA,13,06/05/1983,76,UNAM,Dani Alves,2,0,0,0.77,1.54,3.85,7.69,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,2,DEFENSA,3,22/09/1984,41,Chelsea,Thiago Silva,4,0,1,0.0,1.15,0.69,4.15,0.0,0.0,Puma
+7,Brazil,1,2,Nike,2,DEFENSA,4,14/05/1994,15,PSG,Marquinhos,5,0,0,0.21,0.42,1.06,3.39,0.0,0.0,Nike
+7,Brazil,1,2,Nike,2,DEFENSA,2,15/07/1991,11,Juventus,Danilo,3,0,0,0.0,0.96,1.6,4.47,0.0,0.0,Nike
+7,Brazil,1,2,Nike,2,DEFENSA,6,26/01/1991,11,Juventus,Alex Sandro,3,0,0,0.95,1.42,3.79,7.11,0.0,0.0,Puma
+7,Brazil,1,2,Nike,2,DEFENSA,14,18/01/1998,27,Real Madrid,Eder Militao,4,0,0,0.0,0.77,1.55,4.38,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,2,DEFENSA,16,15/12/1992,5,Sevilla,Alex Telles,1,0,0,0.0,0.0,3.1,6.21,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,2,DEFENSA,24,18/03/1997,11,Juventus,Bremer,2,0,0,0.0,0.83,0.83,9.17,0.0,0.0,Puma
+7,Brazil,1,2,Nike,3,CENTROCAMPISTA,5,23/02/1992,10,Manchester United,Casemiro,4,1,0,0.46,1.38,2.54,4.84,0.0,0.0,Nike
+7,Brazil,1,2,Nike,3,CENTROCAMPISTA,7,27/08/1997,50,West Ham,Lucas Paqueta,4,1,1,0.28,0.61,2.58,8.65,0.0,0.0,Nike
+7,Brazil,1,2,Nike,3,CENTROCAMPISTA,15,23/10/1993,26,Liverpool,Fabinho,1,0,0,0.0,1.0,3.0,5.0,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,3,CENTROCAMPISTA,8,05/03/1993,10,Manchester United,Fred,4,0,0,0.64,0.0,1.28,3.83,0.0,0.0,Nike
+7,Brazil,1,2,Nike,3,CENTROCAMPISTA,22,10/04/1989,77,Flamengo,Everton Ribeiro,1,0,0,2.5,0.0,2.5,2.5,0.0,0.0,Nike
+7,Brazil,1,2,Nike,3,CENTROCAMPISTA,17,16/11/1997,72,Newcastle United,Bruno Guimaraes,2,0,0,2.5,0.0,0.0,5.0,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,4,DELANTERO,10,05/02/1992,15,PSG,Neymar,3,2,1,5.81,0.32,0.32,7.1,0.0,0.0,Puma
+7,Brazil,1,2,Nike,4,DELANTERO,18,03/04/1997,24,Arsenal,Gabriel Jesus,3,0,0,1.96,1.96,1.96,8.81,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,4,DELANTERO,9,10/05/1997,9,Tottenham,Richarlison,4,3,0,1.1,0.28,0.55,4.41,0.0,0.0,Nike
+7,Brazil,1,2,Nike,4,DELANTERO,20,12/07/2000,27,Real Madrid,Vinicius Jr,4,1,2,3.89,0.0,1.2,4.49,0.0,0.0,Nike
+7,Brazil,1,2,Nike,4,DELANTERO,19,24/02/2000,10,Manchester United,Antony,4,0,0,6.84,0.53,1.58,6.85,0.0,0.0,Puma
+7,Brazil,1,2,Nike,4,DELANTERO,11,14/12/1996,22,Barcelona,Raphinha,5,0,0,2.84,0.85,2.27,4.54,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,4,DELANTERO,21,09/01/2001,27,Real Madrid,Rodrygo,5,0,1,3.02,1.01,2.01,5.53,0.0,0.0,Nike
+7,Brazil,1,2,Nike,4,DELANTERO,26,18/06/2001,24,Arsenal,Gabriel Matinelli,2,0,0,5.68,0.0,1.62,6.49,0.0,0.0,Adidas
+7,Brazil,1,2,Nike,4,DELANTERO,25,20/06/1997,77,Flamengo,Pedro,2,0,0,0.0,1.45,2.9,14.51,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,1,PORTERO,22,19/09/1999,78,Porto,Diogo Costa,5,0,0,0.0,0.0,0.0,0.0,64.17,20.0,Adidas
+8,Portugal,9,2,Nike,1,PORTERO,1,15/02/1988,17,Roma,Rui Patricio,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+8,Portugal,9,2,Nike,1,PORTERO,12,17/01/1993,79,Wolves,Jose Sa,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,2,DEFENSA,2,18/03/1999,10,Manchester United,Diogo Dalot,3,0,1,0.69,0.69,2.78,7.64,0.0,0.0,Nike
+8,Portugal,9,2,Nike,2,DEFENSA,13,09/09/1991,15,PSG,Danilo Pereira,1,0,0,1.0,3.0,1.0,14.0,0.0,0.0,Nike
+8,Portugal,9,2,Nike,2,DEFENSA,3,26/02/1983,78,Porto,Pepe,4,1,0,0.25,1.5,1.25,7.25,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,2,DEFENSA,4,14/05/1997,18,Manchester City,Ruben Dias,4,0,0,0.0,0.75,0.75,3.75,0.0,0.0,Nike
+8,Portugal,9,2,Nike,2,DEFENSA,24,30/10/2003,4,Benfica,Antonio Silva,1,0,0,0.0,1.0,1.0,5.0,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,2,DEFENSA,19,19/06/2002,15,PSG,Nuno Mendes,1,0,0,4.29,4.29,0.0,12.85,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,2,DEFENSA,20,27/05/1994,18,Manchester City,Joao Cancelo,4,0,0,2.62,0.58,2.04,10.19,0.0,0.0,Nike
+8,Portugal,9,2,Nike,2,DEFENSA,5,22/12/1993,73,Borussia Dortmund,Raphael Guerreiro,4,1,2,0.65,0.97,0.97,3.23,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,6,09/07/1995,80,Fulham,Joao Palhinha,3,0,0,2.57,2.57,5.14,5.14,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,18,13/03/1997,79,Wolves,Ruben Neves,5,0,0,0.0,0.66,0.33,2.32,0.0,0.0,Nike
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,10,10/08/1994,18,Manchester City,Bernardo Silva,5,0,0,0.5,0.5,0.5,1.76,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,8,08/09/1994,10,Manchester United,Bruno Fernandes,4,2,3,0.76,0.5,0.76,4.28,0.0,0.0,Nike
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,17,19/01/1993,4,Benfica,Joao Mario,2,0,0,1.08,0.0,2.17,2.17,0.0,0.0,Nike
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,23,27/08/1998,79,Wolves,Matheus Nunes,2,0,0,1.23,0.0,0.0,3.7,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,25,09/02/1995,78,Porto,Otavio,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,14,07/04/1992,7,Real Betis,William Carvalho,4,0,0,0.0,0.0,2.51,6.69,0.0,0.0,Nike
+8,Portugal,9,2,Nike,3,CENTROCAMPISTA,16,13/02/2000,15,PSG,Vitinha,3,0,0,1.51,0.0,2.27,5.29,0.0,0.0,Nike
+8,Portugal,9,2,Nike,4,DELANTERO,24,06/11/1995,39,RB Leipzig,Andre Silva,1,0,0,0.0,0.0,0.0,7.2,0.0,0.0,Nike
+8,Portugal,9,2,Nike,4,DELANTERO,7,05/02/1985,81,-,Cristiano Ronaldo 🐐,5,1,0,0.62,0.0,0.0,6.49,0.0,0.0,Nike
+8,Portugal,9,2,Nike,4,DELANTERO,26,20/06/2001,4,Benfica,Goncalo Ramos,4,3,1,1.18,0.0,0.59,7.11,0.0,0.0,Nike
+8,Portugal,9,2,Nike,4,DELANTERO,11,10/11/1999,8,Atletico Madrid,Joao Felix,4,1,2,2.16,1.08,0.54,5.13,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,4,DELANTERO,15,10/06/1999,25,AC Milan,Rafael Leao,5,2,0,6.51,1.08,0.0,7.59,0.0,0.0,Adidas
+8,Portugal,9,2,Nike,4,DELANTERO,21,15/09/1994,82,SC Braga,Ricardo Horta,3,1,0,0.0,0.76,1.53,2.29,0.0,0.0,Nike
+9,Australia,27,2,Nike,1,PORTERO,1,08/04/1992,83,Copenhagen,Mat Ryan,4,0,0,0.0,0.0,0.0,0.0,66.67,50.0,Nike
+9,Australia,27,2,Nike,1,PORTERO,18,27/03/1985,84,Central Coast Mariners,Danny Vukovic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+9,Australia,27,2,Nike,1,PORTERO,12,13/01/1989,85,Sydney,Andrew Redmayne,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+9,Australia,27,2,Nike,2,DEFENSA,16,16/10/1990,86,Dundee United,Aziz Behic,4,0,0,3.0,0.75,2.0,5.5,0.0,0.0,Mizuno
+9,Australia,27,2,Nike,2,DEFENSA,2,28/04/1994,87,Columbus Crew,Milos Degenek,4,0,0,1.49,0.5,2.49,11.93,0.0,0.0,Adidas
+9,Australia,27,2,Nike,2,DEFENSA,8,28/07/1992,88,Sunderland,Bailey Wright,1,0,0,0.0,0.0,0.0,11.24,0.0,0.0,Nike
+9,Australia,27,2,Nike,2,DEFENSA,5,12/05/1996,89,Brescia,Fran Karacic,2,0,0,0.0,1.91,2.87,10.53,0.0,0.0,Nike
+9,Australia,27,2,Nike,2,DEFENSA,19,22/10/1998,90,Stoke City,Harry Souttar,4,0,0,0.0,1.5,1.0,7.25,0.0,0.0,Nike
+9,Australia,27,2,Nike,2,DEFENSA,3,13/06/1999,91,Hearts,Nathaniel Atkinson,1,0,0,2.12,1.06,4.24,4.24,0.0,0.0,Puma
+9,Australia,27,2,Nike,2,DEFENSA,24,30/10/2000,92,OB,Joel King,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+9,Australia,27,2,Nike,2,DEFENSA,4,24/06/1998,91,Hearts,Kye Rowles,4,0,0,0.0,1.75,2.25,4.25,0.0,0.0,Adidas
+9,Australia,27,2,Nike,2,DEFENSA,20,20/03/1997,93,Albirex Niigata,Thomas Deng,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+9,Australia,27,2,Nike,3,CENTROCAMPISTA,13,15/09/1990,37,Celtic,Aaron Mooy,4,0,0,0.75,0.5,2.25,4.0,0.0,0.0,Nike
+9,Australia,27,2,Nike,3,CENTROCAMPISTA,22,07/03/1993,94,St Pauli,Jackson Irvine,4,0,0,0.51,0.51,1.01,6.08,0.0,0.0,Adidas
+9,Australia,27,2,Nike,3,CENTROCAMPISTA,10,05/07/1996,95,Hellas Verona,Ajdin Hrustic,2,0,0,6.1,1.53,1.53,6.1,0.0,0.0,Nike
+9,Australia,27,2,Nike,3,CENTROCAMPISTA,14,02/11/1998,96,Middlesbrough,Riley McGree,4,0,1,0.0,1.67,0.67,2.0,0.0,0.0,Nike
+9,Australia,27,2,Nike,3,CENTROCAMPISTA,26,07/06/1998,97,St Mirren,Keanu Baccus,4,0,0,0.0,1.61,0.8,4.82,0.0,0.0,Nike
+9,Australia,27,2,Nike,3,CENTROCAMPISTA,17,07/06/1998,91,Hearts,Cameron Devlin,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,New Balance
+9,Australia,27,2,Nike,4,DELANTERO,7,04/02/1991,98,Melbourne City,Mathew Leckie,4,1,1,2.69,0.27,1.07,11.02,0.0,0.0,Nike
+9,Australia,27,2,Nike,4,DELANTERO,11,15/09/1995,99,Cadiz,Awer Mabil,2,0,0,4.09,4.09,0.0,0.0,0.0,0.0,Nike
+9,Australia,27,2,Nike,4,DELANTERO,9,29/07/1993,98,Melbourne City,Jamie Maclaren,3,0,0,0.0,1.7,0.0,3.4,0.0,0.0,Nike
+9,Australia,27,2,Nike,4,DELANTERO,15,18/01/1991,100,Fagiano Okayama,Mitchell Duke,4,1,0,0.66,0.66,0.0,8.58,0.0,0.0,Nike
+9,Australia,27,2,Nike,4,DELANTERO,6,25/04/1993,101,Hibernian,Marco Tilio,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+9,Australia,27,2,Nike,4,DELANTERO,23,16/12/1991,102,Adelaide United,Craig Goodwin,4,1,0,0.0,0.0,1.52,3.04,0.0,0.0,Nike
+9,Australia,27,2,Nike,4,DELANTERO,25,01/08/1995,84,Central Coast Mariners,Jason Cummings,1,0,0,2.65,0.0,0.0,0.0,0.0,0.0,Nike
+9,Australia,27,2,Nike,4,DELANTERO,21,15/09/2004,84,Central Coast Mariners,Garang Kuol,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+10,USA,13,2,Nike,1,PORTERO,1,24/06/1994,24,Arsenal,Matt Turner,4,0,0,0.0,0.0,0.0,0.0,53.33,50.0,Nike
+10,USA,13,5,,1,PORTERO,12,09/06/1995,103,Luton Town,Ethan Horvath,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+10,USA,13,2,Nike,1,PORTERO,25,31/05/1989,104,New York City FC,Sean Johnson,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+10,USA,13,2,Nike,2,DEFENSA,20,31/12/1997,37,Celtic,Cameron Carter-Vickers,1,0,0,0.0,0.0,0.0,9.0,0.0,0.0,Adidas
+10,USA,13,2,Nike,2,DEFENSA,2,03/11/2000,25,AC Milan,Sergiño Dest,4,0,1,2.33,0.58,0.87,2.91,0.0,0.0,Nike
+10,USA,13,2,Nike,2,DEFENSA,15,12/10/2000,105,New York Red Bills,Aaron Long,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+10,USA,13,2,Nike,2,DEFENSA,18,02/11/1996,106,Nashville SC,Shaq Moore,2,0,0,0.0,0.0,9.0,18.0,0.0,0.0,Nike
+10,USA,13,2,Nike,2,DEFENSA,13,05/10/1987,80,Fulham,Tim Ream,4,0,0,0.25,1.0,1.0,4.75,0.0,0.0,Nike
+10,USA,13,2,Nike,2,DEFENSA,5,08/08/1997,80,Fulham,Antonee Robinson,4,0,0,1.25,1.75,1.5,5.5,0.0,0.0,Nike
+10,USA,13,2,Nike,2,DEFENSA,26,31/12/2002,107,Borussia Mönchengladbach,Joe Scally,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+10,USA,13,2,Nike,2,DEFENSA,22,09/07/1993,108,Inter Miami,DeAndre Yedlin,2,0,0,0.0,0.0,5.81,11.61,0.0,0.0,Under Armour
+10,USA,13,2,Nike,2,DEFENSA,3,19/05/1993,106,Nashville SC,Walker Zimmerman,4,0,0,0.0,1.29,0.97,6.15,0.0,0.0,Adidas
+10,USA,13,2,Nike,3,CENTROCAMPISTA,11,22/10/2000,109,Leeds United,Brenden Aaronson,4,0,0,6.06,0.87,2.6,6.92,0.0,0.0,Nike
+10,USA,13,2,Nike,3,CENTROCAMPISTA,23,24/07/1995,110,Los Angeles FC,Kellyn Acosta,2,0,0,0.0,0.0,6.59,10.98,0.0,0.0,Nike
+10,USA,13,2,Nike,3,CENTROCAMPISTA,4,14/02/1999,109,Leeds United,Tyler Adams,4,0,0,0.25,1.0,2.25,6.25,0.0,0.0,Nike
+10,USA,13,2,Nike,3,CENTROCAMPISTA,14,23/05/1998,111,Celta Vigo,Luca de la Torre,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+10,USA,13,2,Nike,3,CENTROCAMPISTA,8,28/08/1998,11,Juventus,Weston McKennie,4,0,0,0.65,0.0,0.65,3.6,0.0,0.0,Adidas
+10,USA,13,2,Nike,3,CENTROCAMPISTA,6,29/11/2002,112,Valencia,Yunus Musah,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+10,USA,13,2,Nike,3,CENTROCAMPISTA,17,03/06/1995,113,Seattle Sounders,Cristian Roldan,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+10,USA,13,2,Nike,4,DELANTERO,9,24/12/2000,114,Tulsa Roughnecks,Jesús Ferreira,1,0,0,1.96,0.0,1.96,5.87,0.0,0.0,Nike
+10,USA,13,2,Nike,4,DELANTERO,16,26/10/1994,115,Swansea City,Jordan Morris,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+10,USA,13,2,Nike,4,DELANTERO,10,18/09/1998,41,Chelsea,Christian Pulisic,4,1,2,1.99,0.0,0.57,5.7,0.0,0.0,Puma
+10,USA,13,2,Nike,4,DELANTERO,7,13/11/2002,73,Borussia Dortmund,Gio Reyna,2,0,0,0.0,0.0,0.0,10.59,0.0,0.0,Adidas
+10,USA,13,2,Nike,4,DELANTERO,21,22/02/2000,116,Lille,Tim Weah,4,1,0,0.56,0.0,0.28,2.25,0.0,0.0,New Balance
+10,USA,13,2,Nike,4,DELANTERO,19,27/03/1998,117,Antalyaspor,Haji Wright,4,1,0,0.67,0.0,1.33,10.0,0.0,0.0,Nike
+11,Poland,22,2,Nike,1,PORTERO,1,15/04/1990,11,Juventus,Wojciech Szczesny,4,0,0,0.0,0.0,0.0,0.0,82.14,50.0,New Balance
+11,Poland,22,2,Nike,1,PORTERO,22,08/01/1999,118,FC Copenhagen,Kamil Grabara,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+11,Poland,22,2,Nike,1,PORTERO,12,05/05/1991,119,Bologna,Lukasz Skorupski,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+11,Poland,22,2,Nike,2,DEFENSA,5,12/04/1996,1,Aston Villa,Jan Bednarek,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+11,Poland,22,2,Nike,2,DEFENSA,15,03/02/1988,120,Benevento,Kamil Glik,4,0,0,0.0,0.75,0.5,2.5,0.0,0.0,Nike
+11,Poland,22,2,Nike,2,DEFENSA,25,04/06/1998,121,Augsburg,Robert Gumny,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+11,Poland,22,2,Nike,2,DEFENSA,3,04/11/1987,122,Legia Warsaw,Artur Jedrzejczyk,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+11,Poland,22,2,Nike,2,DEFENSA,14,15/02/2000,123,Spezia,Jakub Kiwior,4,0,0,0.0,0.76,0.5,2.02,0.0,0.0,Adidas
+11,Poland,22,2,Nike,2,DEFENSA,4,11/02/1997,124,Clermont,Mateusz Wieteska,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+11,Poland,22,2,Nike,2,DEFENSA,18,12/07/1992,56,Sampdoria,Bartosz Bereszynski,4,0,0,1.84,0.79,1.58,5.0,0.0,0.0,Puma
+11,Poland,22,2,Nike,2,DEFENSA,2,07/08/1997,1,Aston Villa,Matty Cash,4,0,0,0.5,0.0,1.0,2.5,0.0,0.0,Under Armour
+11,Poland,22,2,Nike,2,DEFENSA,21,23/01/2002,17,Roma,Nicola Zalewski,2,0,0,2.77,0.0,5.54,8.31,0.0,0.0,Nike
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,6,04/01/1998,125,Birmingham City,Krystian Bielik,4,0,0,1.26,1.67,1.26,9.21,0.0,0.0,Nike
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,24,12/04/1995,126,Lens,Przemyslaw Frankowski,4,0,0,0.74,1.12,2.6,5.95,0.0,0.0,Puma
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,11,08/06/1988,127,Pogon Szczecin,Kamil Grosicki,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,New Balance
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,10,29/01/1990,128,Al-Shabab,Grzegorz Krychowiak,4,0,0,0.54,1.35,2.43,6.74,0.0,0.0,Adidas
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,13,05/06/2002,129,Wolfsburg,Jakub Kaminski,4,0,0,1.55,0.0,2.33,3.88,0.0,0.0,Adidas
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,26,15/02/2000,130,Lech Poznan,Michal Skoras,1,0,0,0.0,2.05,0.0,8.19,0.0,0.0,Puma
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,8,16/06/1995,34,AEK Athens,Damian Szymanski,1,0,0,0.0,3.21,0.0,0.0,0.0,0.0,Mizuno
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,19,10/05/1999,65,Feyenoord,Sebastian Szymanski,2,0,0,1.33,1.33,4.0,8.0,0.0,0.0,Nike
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,20,20/05/1994,131,Napoli,Piotr Zielinski,4,1,0,0.82,0.27,1.91,2.73,0.0,0.0,Nike
+11,Poland,22,2,Nike,3,CENTROCAMPISTA,17,25/09/1997,55,Fiorentina,Szymon Zurkowski,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+11,Poland,22,2,Nike,4,DELANTERO,9,21/08/1988,22,Barcelona,Robert Lewandowski,4,2,1,2.75,0.5,0.75,12.5,0.0,0.0,Nike
+11,Poland,22,2,Nike,4,DELANTERO,7,28/02/1994,11,Juventus,Arkadiusz Milik,3,0,0,0.0,0.0,0.0,9.0,0.0,0.0,Adidas
+11,Poland,22,2,Nike,4,DELANTERO,23,01/07/1995,132,Salernitana,Krzysztof Piatek,2,0,0,0.0,0.0,0.0,17.3,0.0,0.0,Adidas
+11,Poland,22,2,Nike,4,DELANTERO,16,23/01/1997,133,Charlotte FC,Karol Swiderski,1,0,0,0.0,3.91,7.83,0.0,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,1,PORTERO,16,01/03/1992,41,Chelsea,Edouard Mendy,4,0,0,0.0,0.0,0.0,0.0,50.0,0.0,Adidas
+12,Senegal,19,4,Puma,1,PORTERO,23,05/09/1993,20,Rennes,Alfred Gomis,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,1,PORTERO,1,23/11/1994,62,QPR,Seny Dieng,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+12,Senegal,19,4,Puma,2,DEFENSA,2,02/01/2001,134,Amiens,Formose Mendy,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+12,Senegal,19,4,Puma,2,DEFENSA,3,20/06/1991,41,Chelsea,Kalidou Koulibaly,4,1,0,0.0,0.75,3.0,9.25,0.0,0.0,Puma
+12,Senegal,19,4,Puma,2,DEFENSA,4,14/09/1995,135,Olympiacos,Papa Abou Cisse,2,0,0,0.88,1.76,0.0,4.41,0.0,0.0,Puma
+12,Senegal,19,4,Puma,2,DEFENSA,22,04/05/1996,39,RB Leipzig,Abdou Diallo,4,0,0,0.0,0.27,0.54,4.34,0.0,0.0,Puma
+12,Senegal,19,4,Puma,2,DEFENSA,12,03/01/1997,25,AC Milan,Fode Ballo-Toure,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,2,DEFENSA,14,17/08/1999,136,AS Monaco,Ismail Jakobs,4,0,1,0.32,1.29,0.0,7.39,0.0,0.0,Nike
+12,Senegal,19,4,Puma,2,DEFENSA,21,05/03/1993,7,Real Betis,Youssouf Sabaly,4,0,0,1.25,1.0,1.5,7.5,0.0,0.0,Puma
+12,Senegal,19,4,Puma,2,DEFENSA,10,18/06/2002,137,Anderlecht,Moussa Ndiaye,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+12,Senegal,19,4,Puma,3,CENTROCAMPISTA,26,24/01/1999,29,Marseille,Papa Gueye,3,0,0,0.6,1.19,2.38,10.13,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,3,CENTROCAMPISTA,17,14/09/2002,138,Tottenham Hotspur,Pape Matar Sarr,0,0,0,1.61,0.0,4.82,8.65,0.0,0.0,Nike
+12,Senegal,19,4,Puma,3,CENTROCAMPISTA,6,23/06/1992,74,Leicester City,Nampalys Mendy,4,0,0,0.33,0.99,1.31,2.3,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,3,CENTROCAMPISTA,15,25/02/1999,136,AS Monaco,Krepin Diatta,3,0,0,1.96,0.0,0.0,3.43,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,3,CENTROCAMPISTA,11,16/03/1994,139,Rayo Vallecano,Pathe Ciss,3,0,0,1.23,1.23,1.85,8.63,0.0,0.0,Nike
+12,Senegal,19,4,Puma,3,CENTROCAMPISTA,24,05/05/1995,28,Monaco,Moustapha Name,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,3,CENTROCAMPISTA,25,30/12/1996,140,Pafos,Loum Ndiaye,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+12,Senegal,19,4,Puma,4,DELANTERO,9,16/11/1996,132,Salernitana,Boulaye Dia,4,1,0,0.56,0.28,0.28,4.76,0.0,0.0,Nike
+12,Senegal,19,4,Puma,4,DELANTERO,18,25/02/1998,141,Watford,Ismalia Sarr,4,1,0,3.4,0.52,0.78,11.77,0.0,0.0,Nike
+12,Senegal,19,4,Puma,4,DELANTERO,20,23/03/2000,29,Marseille,Bamba Dieng,4,1,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,4,DELANTERO,13,06/03/2000,142,Sheffield United,Iliman Ndiaye,3,0,1,4.6,0.66,0.0,3.94,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,4,DELANTERO,7,20/06/2001,3,Villarreal,Nicolas Jackson,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+12,Senegal,19,4,Puma,4,DELANTERO,19,15/12/1992,143,Alanyaspor,Famara Diedhiou,2,1,0,0.98,0.0,0.0,11.74,0.0,0.0,Puma
+13,Japan,20,1,Adidas,1,PORTERO,1,20/03/1983,144,Strasbourg,Eiji Kawashima,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+13,Japan,20,1,Adidas,1,PORTERO,12,03/03/1989,145,Shimizu S-Pulse,Shuichi Gonda,4,0,0,0.0,0.0,0.0,0.0,78.95,0.0,Mizuno
+13,Japan,20,1,Adidas,1,PORTERO,23,03/02/1992,146,Sint-Truiden,Daniel Schmidt,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+13,Japan,20,1,Adidas,2,DEFENSA,2,22/12/1993,147,Kawasaki Frontale,Miki Yamane,1,0,0,1.45,2.9,1.45,4.35,0.0,0.0,Asics
+13,Japan,20,1,Adidas,2,DEFENSA,3,15/07/1991,147,Kawasaki Frontale,Shogo Taniguchi,2,0,0,0.0,0.43,0.43,6.43,0.0,0.0,Puma
+13,Japan,20,1,Adidas,2,DEFENSA,5,12/09/1986,148,Tokyo,Yuto Nagatomo,4,0,0,1.69,0.0,1.69,3.8,0.0,0.0,Nike
+13,Japan,20,1,Adidas,2,DEFENSA,16,05/11/1998,24,Arsenal,Takehiro Tomiyasu,3,0,0,0.0,0.0,0.0,5.84,0.0,0.0,Nike
+13,Japan,20,1,Adidas,2,DEFENSA,19,12/04/1990,149,Urawa Red Diamonds,Hiroki Sakai,2,0,0,1.5,0.75,3.75,9.0,0.0,0.0,Nike
+13,Japan,20,1,Adidas,2,DEFENSA,22,24/08/1988,150,Schalke,Maya Yoshida,4,0,1,0.46,0.69,0.92,6.76,0.0,0.0,Mizuno
+13,Japan,20,1,Adidas,2,DEFENSA,26,12/05/1999,38,Stuttgart,Hiroki Ito,1,0,0,0.0,0.0,0.0,4.1,0.0,0.0,Nike
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,6,09/02/1993,38,Stuttgart,Wataru Endo,4,0,0,0.89,0.89,2.38,10.69,0.0,0.0,Puma
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,7,28/05/1992,151,Leganes,Gaku Shibasaki,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Umbro
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,8,16/06/1998,152,Freiburg,Ritsu Doan,4,2,0,2.49,0.83,2.49,6.22,0.0,0.0,Puma
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,9,20/05/1997,13,Brighton,Kaoru Mitoma,4,0,1,2.8,1.12,3.91,7.83,0.0,0.0,Puma
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,10,16/01/1995,28,Monaco,Takumi Minamino,3,0,0,1.61,0.0,3.21,3.21,0.0,0.0,Adidas
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,13,10/05/1995,153,Sporting,Hidemasa Morita,3,0,0,1.26,0.63,0.0,3.46,0.0,0.0,Mizuno
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,14,09/03/1993,154,Reims,Junya Ito,4,0,1,1.95,1.11,1.95,5.58,0.0,0.0,Puma
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,15,05/11/1996,30,Eintracht Frankfurt,Daichi Kamada,4,0,0,1.11,0.0,1.94,4.72,0.0,0.0,Nike
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,17,10/09/1998,155,Fortuna Dusseldorf,Ao Tanaka,3,1,0,0.0,1.57,1.57,5.23,0.0,0.0,Mizuno
+13,Japan,20,1,Adidas,3,CENTROCAMPISTA,24,25/02/1997,156,Nagoya Grampus,Yuki Soma,1,0,0,2.2,0.0,2.2,6.59,0.0,0.0,Mizuno
+13,Japan,20,1,Adidas,4,DELANTERO,18,10/11/1994,157,Bochum,Takuma Asano,4,1,0,0.56,0.56,0.0,1.12,0.0,0.0,Adidas
+13,Japan,20,1,Adidas,4,DELANTERO,20,30/09/1999,158,Shonan Bellmare,Shuto Machino,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+13,Japan,20,1,Adidas,4,DELANTERO,21,28/08/1998,159,Cercle Brugge,Ayase Ueda,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+13,Japan,20,1,Adidas,4,DELANTERO,25,20/10/1997,37,Celtic,Daizen Maeda,3,1,0,0.0,1.48,1.48,3.9,0.0,0.0,Nike
+14,South Korea,25,2,Nike,1,PORTERO,1,30/09/1990,160,Al Shabab,Kim Seung-gyu,4,0,0,0.0,0.0,0.0,0.0,57.89,25.0,Adidas
+14,South Korea,25,2,Nike,1,PORTERO,21,25/09/1991,161,Ulsan Hyundai,Jo Hyeon-woon,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+14,South Korea,25,2,Nike,1,PORTERO,12,15/10/1997,162,Jeonbuk Hyundai Motors,Song Bum-keun,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+14,South Korea,25,2,Nike,2,DEFENSA,4,15/11/1996,131,Napoli,Kim Min-jae,3,0,0,0.33,0.67,0.67,7.66,0.0,0.0,Nike
+14,South Korea,25,2,Nike,2,DEFENSA,3,13/06/1992,162,Jeonbuk Hyundai Motors,Kim Jin-su,4,0,1,0.57,0.85,2.85,10.26,0.0,0.0,Puma
+14,South Korea,25,2,Nike,2,DEFENSA,14,17/09/1990,163,Daegu FC,Hong Chul,1,0,0,2.05,2.05,0.0,4.05,0.0,0.0,Nike
+14,South Korea,25,2,Nike,2,DEFENSA,15,01/08/1995,162,Jeonbuk Hyundai Motors,Kim Moon-hwan,4,0,0,1.0,1.0,2.25,5.75,0.0,0.0,Nike
+14,South Korea,25,2,Nike,2,DEFENSA,2,20/03/1998,164,FC Seoul,Yoon Jong-gyu,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+14,South Korea,25,2,Nike,2,DEFENSA,19,27/02/1990,161,Ulsan Hyundai,Kim Young-gwon,4,1,0,0.0,0.77,0.77,4.36,0.0,0.0,Mizuno
+14,South Korea,25,2,Nike,2,DEFENSA,23,24/07/1989,161,Ulsan Hyundai,Kim Tae-hwan,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Mizuno
+14,South Korea,25,2,Nike,2,DEFENSA,20,31/01/1992,165,Gamba Osaka,Kwon Kyung-won,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Mizuno
+14,South Korea,25,2,Nike,2,DEFENSA,24,17/11/1996,166,Daejon Citizen,Cho Yu-min,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,5,14/12/1989,167,Al Sadd,Jung Woo-young,4,0,0,0.0,0.59,1.48,5.04,0.0,0.0,Mizuno
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,17,12/08/1996,164,FC Seoul,Na Sang-ho,2,0,0,3.05,0.0,3.05,7.63,0.0,0.0,Nike
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,8,17/03/1997,162,Jeonbuk Hyundai Motors,Paik Seung-ho,1,1,0,0.0,0.0,10.8,0.0,0.0,0.0,Nike
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,13,12/05/1992,168,Shandong Taishan,Son Jun-ho,3,0,0,0.0,3.91,3.91,3.91,0.0,0.0,Mizuno
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,26,12/09/1999,162,Jeonbuk Hyundai Motors,Song Min-kyu,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,22,30/06/1994,169,Gimcheon Sangmu,Kwon Chang-hoon,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,10,10/08/1992,170,Mainz,Lee Jae-sung,3,0,0,1.26,1.26,2.1,5.89,0.0,0.0,Nike
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,6,20/09/1996,135,Olympiacos,Hwang In-beom,4,0,0,1.07,0.81,1.07,2.96,0.0,0.0,Mizuno
+14,South Korea,25,2,Nike,3,CENTROCAMPISTA,18,19/02/2001,171,Mallorca,Lee Kang-in,4,0,1,0.62,0.0,2.47,5.55,0.0,0.0,Adidas
+14,South Korea,25,2,Nike,4,DELANTERO,7,08/07/1992,138,Tottenham Hotspur,Son Heung-min,4,0,1,3.25,0.5,1.25,3.5,0.0,0.0,Adidas
+14,South Korea,25,2,Nike,4,DELANTERO,11,26/01/1996,172,Wolverhampton Wanderers,Hwang Hee-chan,2,1,0,7.11,0.0,0.79,5.53,0.0,0.0,Nike
+14,South Korea,25,2,Nike,4,DELANTERO,25,20/09/1999,152,Freiburg,Jeong Woo-yeong,1,0,0,1.96,0.0,0.0,0.0,0.0,0.0,Nike
+14,South Korea,25,2,Nike,4,DELANTERO,16,28/08/1992,135,Olympiacos,Hwang Ui-jo,4,0,0,0.86,0.0,0.0,2.57,0.0,0.0,Adidas
+14,South Korea,25,2,Nike,4,DELANTERO,9,26/01/1998,162,Jeonbuk Hyundai Motors,Cho Gue-sung,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+15,Spain,10,1,Adidas,1,PORTERO,1,18/11/1997,13,Brighton,Robert Sanchez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+15,Spain,10,1,Adidas,1,PORTERO,13,15/09/1995,173,Brentford,David Raya,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,1,PORTERO,23,11/06/1997,174,Athletic Club,Unai Simon,4,0,0,0.0,0.0,0.0,0.0,66.67,50.0,Adidas
+15,Spain,10,1,Adidas,2,DEFENSA,2,28/08/1989,41,Chelsea,Cesar Azpilicueta,2,0,1,0.0,0.66,0.66,3.31,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,2,DEFENSA,18,21/03/1989,175,FC Barcelona,Jordi Alba,4,0,2,1.02,1.02,2.37,4.74,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,2,DEFENSA,15,31/01/2000,112,Valencia,Hugo Guillamon,3,1,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,2,DEFENSA,4,17/01/1997,3,Villarreal,Pau Torrres,1,0,0,0.0,0.0,0.0,1.0,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,2,DEFENSA,3,09/01/2001,22,Barcelona,Eric Garcia,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,2,DEFENSA,14,18/10/2003,22,Barcelona,Alejandro Balde,4,0,0,0.0,0.0,4.35,5.08,0.0,0.0,Nike
+15,Spain,10,1,Adidas,2,DEFENSA,20,11/01/1992,27,Real Madrid,Dani Carvajal,2,0,0,0.0,1.34,0.67,1.34,0.0,0.0,Nike
+15,Spain,10,1,Adidas,2,DEFENSA,24,27/05/1994,18,Manchester City,Aymeric Laporte,3,0,0,0.0,0.6,0.6,4.2,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,3,CENTROCAMPISTA,5,16/07/1988,22,Barcelona,Sergio Busquets,4,0,0,0.25,0.25,1.73,6.68,0.0,0.0,Nike
+15,Spain,10,1,Adidas,3,CENTROCAMPISTA,6,30/01/1995,8,Atletico Madrid,Marcos Llorente,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+15,Spain,10,1,Adidas,3,CENTROCAMPISTA,26,25/11/2002,22,Barcelona,Pedri,4,0,0,2.02,1.01,1.01,3.53,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,3,CENTROCAMPISTA,16,22/06/1996,18,Manchester City,Rodri,4,0,0,0.0,0.69,1.15,8.77,0.0,0.0,Nike
+15,Spain,10,1,Adidas,3,CENTROCAMPISTA,8,08/01/1992,8,Atletico Madrid,Koke,2,0,0,0.0,0.0,1.8,1.8,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,3,CENTROCAMPISTA,9,05/08/2004,22,Barcelona,Gavi,4,1,0,0.94,0.31,2.51,8.78,0.0,0.0,Nike
+15,Spain,10,1,Adidas,3,CENTROCAMPISTA,19,02/01/1997,15,PSG,Carlos Soler,2,1,0,1.0,0.0,0.0,2.0,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,4,DELANTERO,7,23/10/1992,8,Atletico Madrid,Alvaro Morata,4,3,1,1.48,0.0,0.49,2.95,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,4,DELANTERO,17,20/10/2002,3,Villarreal,Yeremy Pino,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+15,Spain,10,1,Adidas,4,DELANTERO,11,29/02/2000,22,Barcelona,Ferran Torres,4,2,0,4.52,0.0,0.0,2.88,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,4,DELANTERO,10,21/01/1996,27,Real Madrid,Marco Asensio,4,1,0,0.78,0.0,0.39,1.56,0.0,0.0,Nike
+15,Spain,10,1,Adidas,4,DELANTERO,22,11/05/1992,15,PSG,Pablo Sarabia,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+15,Spain,10,1,Adidas,4,DELANTERO,21,07/05/1998,39,RB Leipzig,Dani Olmo,4,1,1,3.91,0.24,1.22,3.42,0.0,0.0,Adidas
+15,Spain,10,1,Adidas,4,DELANTERO,12,12/07/2002,174,Athletic Club,Nico Williams,4,0,0,8.07,0.0,2.48,6.83,0.0,0.0,Nike
+15,Spain,10,1,Adidas,4,DELANTERO,25,31/10/2002,22,Barcelona,Ansu Fati,2,0,0,4.09,0.0,2.05,6.14,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,1,PORTERO,1,17/12/1988,31,Borussia Monchengladbach,Yann Sommer,3,0,0,0.0,0.0,0.0,0.0,63.16,33.0,Puma
+16,Switzerland,12,4,Puma,1,PORTERO,12,10/01/1994,176,Montpellier,Jonas Omlin,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+16,Switzerland,12,4,Puma,1,PORTERO,21,06/12/1997,73,Borussia Dortmund,Gregor Kobel,1,0,0,0.0,0.0,0.0,0.0,50.0,0.0,Puma
+16,Switzerland,12,4,Puma,1,PORTERO,24,02/04/1998,44,Red Bull Salzburg,Philipp Kohn,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,2,DEFENSA,13,25/08/1992,43,Torino,Ricardo Rodriguez,4,0,0,0.0,0.0,1.5,7.0,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,2,DEFENSA,22,20/12/1991,72,Newcastle United,Fabian Schar,2,0,0,0.0,1.32,1.32,7.94,0.0,0.0,Puma
+16,Switzerland,12,4,Puma,2,DEFENSA,5,19/07/1995,18,Manchester City,Manuel Akanji,4,1,0,0.0,0.75,1.25,6.0,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,2,DEFENSA,4,30/09/1996,31,Borussia Monchengladbach,Nico Elvedi,2,0,0,0.0,0.5,1.0,4.5,0.0,0.0,Puma
+16,Switzerland,12,4,Puma,2,DEFENSA,18,04/02/1998,112,Valencia,Eray Comert,2,0,0,0.0,4.09,0.0,2.05,0.0,0.0,Puma
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,23,10/10/1991,177,Chicago Fire,Xherdan Shaqiri,3,1,1,0.78,0.0,0.0,3.12,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,10,27/09/1992,24,Arsenal,Granit Xhaka,4,0,0,0.25,0.5,1.5,6.25,0.0,0.0,Puma
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,8,15/04/1992,178,Nottingham Forest,Remo Freuler,4,1,0,0.56,0.83,2.22,3.34,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,6,20/11/1996,41,Chelsea,Denis Zakaria,2,0,0,1.58,4.74,0.0,6.32,0.0,0.0,Adidas
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,15,06/02/1997,30,Eintracht Frankfurt,Djibril Sow,4,0,1,0.33,0.33,0.66,3.65,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,11,03/11/1991,179,Lugano,Renato Steffen,1,0,0,2.81,0.0,0.0,2.81,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,2,15/04/1996,170,Mainz,Edimilson Fernandes,3,0,0,1.26,1.26,1.26,2.52,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,20,08/01/1989,180,Basel,Fabian Frei,2,0,0,0.0,4.09,4.09,4.09,0.0,0.0,Puma
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,14,06/01/1997,119,Bologna,Michel Aebischer,1,0,0,0.0,0.0,6.43,0.0,0.0,0.0,Adidas
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,26,30/06/2002,181,Luzern,Ardon Jashari,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+16,Switzerland,12,4,Puma,3,CENTROCAMPISTA,25,16/02/2002,182,Young Boys,Fabian Rieder,2,0,0,1.34,0.0,4.03,8.06,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,4,DELANTERO,9,22/02/1992,183,Galatasaray,Haris Seferovic,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+16,Switzerland,12,4,Puma,4,DELANTERO,7,14/02/1997,28,Monaco,Breel Embolo,4,2,0,1.38,0.0,0.28,4.68,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,4,DELANTERO,17,05/08/1998,121,Augsburg,Ruben Vargas,4,0,1,1.56,0.31,0.0,3.13,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,4,DELANTERO,16,11/11/1993,182,Young Boys,Christian Fassnacht,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+16,Switzerland,12,4,Puma,4,DELANTERO,19,24/05/2000,44,Red Bull Salzburg,Noah Okafor,3,0,0,2.14,0.0,0.0,2.14,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,1,PORTERO,1,30/03/1987,184,Aucas,Hernan Galindez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,1,PORTERO,12,09/09/2000,185,Independiente del Valle,Moises Ramirez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,1,PORTERO,22,05/06/1987,186,LDU Quito,Alexander Dominguez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+17,Ecuador,41,6,Marathon,2,DEFENSA,2,11/01/1997,187,Santos Laguna,Felix Torres,3,0,1,0.33,1.33,0.67,6.67,0.0,0.0,Adidas
+17,Ecuador,41,6,Marathon,2,DEFENSA,3,09/01/2002,12,Bayer Leverkusen,Piero Hincapie,3,0,0,0.0,0.67,2.33,6.0,0.0,0.0,Adidas
+17,Ecuador,41,6,Marathon,2,DEFENSA,4,22/10/1991,188,Sao Paulo,Robert Arboleda,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,2,DEFENSA,6,16/10/2001,69,Antwerp,William Pacho,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,2,DEFENSA,7,21/01/1998,13,Brighton,Pervis Estupinan,3,0,0,2.33,1.0,2.33,6.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,2,DEFENSA,14,28/09/1994,189,Seattle Sounders FC,Xavier Arreaga,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+17,Ecuador,41,6,Marathon,2,DEFENSA,17,18/02/1998,59,Genk,Angelo Preciado,3,0,1,0.34,1.7,2.38,5.1,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,2,DEFENSA,18,12/07/1999,110,Los Angeles FC,Diego Palacios,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,2,DEFENSA,25,04/08/2000,190,Troyes,Jackson Porozo,2,0,0,0.0,2.84,1.89,5.69,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,5,12/03/1999,110,Los Angeles FC,Jose Cifuentes,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,8,19/04/1995,191,FC Augsburg,Carlos Gruezo,1,0,0,0.0,0.0,3.91,3.91,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,15,21/01/1988,192,Leon,Angel Mena,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,16,16/06/2002,13,Brighton,Jeremy Sarmiento,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,19,01/11/2000,193,Real Valladolid,Gonzalo Plata,3,0,0,4.0,0.67,1.0,7.67,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,20,26/04/1997,110,Los Angeles FC,Jhegson Mendez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,21,21/08/1998,194,Talleres,Alan Franco,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,23,02/11/2001,13,Brighton,Moises Caicedo,3,1,0,0.0,0.67,2.0,4.33,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,3,CENTROCAMPISTA,26,04/03/2000,195,Imbabura,Kevin Rodriguez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,4,DELANTERO,9,17/07/1994,187,Santos Laguna,Ayrton Preciado,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,4,DELANTERO,10,24/09/1994,196,Pachuca,Romario Ibarra,2,0,0,0.5,1.32,0.0,1.32,0.0,0.0,Adidas
+17,Ecuador,41,6,Marathon,4,DELANTERO,11,07/04/1996,197,Cruz Azul,Michael Estrada,3,0,0,0.79,0.0,0.39,0.0,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,4,DELANTERO,13,04/11/1989,198,Fenerbahce,Enner Valencia,3,3,0,2.1,0.35,0.7,5.25,0.0,0.0,Nike
+17,Ecuador,41,6,Marathon,4,DELANTERO,24,18/01/1999,199,Newell's Old Boys,Djorkaeff Reasco,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,1,PORTERO,1,19/02/1990,200,Al-Sadd,Saad Al Sheeb,1,0,0,0.0,0.0,0.0,0.0,33.33,0.0,Adidas
+18,Qatar,60,2,Nike,1,PORTERO,22,14/02/1998,200,Al-Sadd,Meshaal Barsham,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,1,PORTERO,21,24/05/1996,201,Al-Gharafa,Yousef Hassan,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,2,DEFENSA,3,28/08/1993,200,Al-Sadd,Abdelkarim Hassan,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,2,DEFENSA,16,07/09/1990,200,Al-Sadd,Boualem Khoukhi,3,0,0,0.33,1.0,0.67,2.33,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,2,DEFENSA,2,06/08/1990,200,Al-Sadd,Pedro Miguel,3,0,0,1.03,2.74,2.05,6.51,0.0,0.0,Nike
+18,Qatar,60,2,Nike,2,DEFENSA,5,05/12/1997,200,Al-Sadd,Tarek Salman,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,2,DEFENSA,0,16/12/1997,202,Al-Duhail,Bassam Al-Rawi,1,0,0,0.0,0.0,0.0,4.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,2,DEFENSA,13,26/09/1993,200,Al-Sadd,Musab Kheder,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,2,DEFENSA,14,25/08/1999,201,Al-Gharafa,Homam Ahmed,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,2,DEFENSA,25,20/02/2002,203,Al-Arabi,Jassem Gaber,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,3,CENTROCAMPISTA,12,16/09/1990,202,Al-Duhail,Karim Boudiaf,3,0,0,1.95,0.0,0.97,8.76,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,3,CENTROCAMPISTA,20,10/04/1996,81,-,Salem Al-Hajri,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,3,CENTROCAMPISTA,6,28/10/1990,204,Al-Rayyan,Abdulaziz Hatem,3,0,0,0.0,0.46,0.46,1.84,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,3,CENTROCAMPISTA,8,19/01/1993,200,Al-Sadd,Ali Assadalla,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,3,CENTROCAMPISTA,4,18/09/1999,200,Al-Sadd,Mohammed Waad,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,3,CENTROCAMPISTA,23,22/10/1996,202,Al-Duhail,Assim Madibo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,3,CENTROCAMPISTA,26,28/03/2001,200,Al-Sadd,Mustafa Tarek,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,N.A
+18,Qatar,60,2,Nike,4,DELANTERO,10,11/12/1990,200,Al-Sadd,Hassan Al-Haydos,3,0,0,2.14,0.86,1.29,1.71,0.0,0.0,Nike
+18,Qatar,60,2,Nike,4,DELANTERO,11,18/11/1996,200,Al-Sadd,Akram Afif,3,0,0,1.67,0.0,0.0,3.33,0.0,0.0,Adidas
+18,Qatar,60,2,Nike,4,DELANTERO,19,19/08/1996,202,Al-Duhail,Almoez Ali,3,0,0,1.19,0.4,0.4,3.19,0.0,0.0,Nike
+18,Qatar,60,2,Nike,4,DELANTERO,17,05/04/1990,202,Al-Duhail,Ismaeel Mohammada,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,4,DELANTERO,9,20/12/1993,202,Al-Duhail,Mohammed Muntari,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,4,DELANTERO,7,31/01/1993,201,Al-Gharafa,Ahmed Alaaeldin,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,4,DELANTERO,18,24/02/1998,205,Al-Wakrah,Khalid Muneer,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+18,Qatar,60,2,Nike,4,DELANTERO,24,18/07/2001,204,Al-Rayyan,Naif Al-Hadhrami,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+19,Iran,24,7,Majid,1,PORTERO,1,12/09/1992,206,Persepolis,Alireza Beiranvand,2,0,0,0.0,0.0,0.0,0.0,80.0,0.0,Adidas
+19,Iran,24,7,Majid,1,PORTERO,22,26/04/1993,207,Ponferradina,Amir Absedzadeh,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+19,Iran,24,7,Majid,1,PORTERO,24,30/05/1992,208,Esteghlal,Hossein Hosseini,2,0,0,0.0,0.0,0.0,0.0,50.0,50.0,Adidas
+19,Iran,24,7,Majid,1,PORTERO,12,06/04/1995,209,Sepahann,Payam Niazmand,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+19,Iran,24,7,Majid,2,DEFENSA,3,25/02/1990,34,AEK Athens,Ehsan Hajsafi,3,0,0,0.76,0.76,3.03,5.68,0.0,0.0,Adidas
+19,Iran,24,7,Majid,2,DEFENSA,13,23/03/1994,210,Al Ahli,Hossein Kanaani,1,0,0,0.0,2.05,0.0,2.05,0.0,0.0,Nike
+19,Iran,24,7,Majid,2,DEFENSA,8,19/04/1992,206,Persepolis,Morteza Pouraliganji,3,0,0,0.0,2.0,0.67,7.66,0.0,0.0,Adidas
+19,Iran,24,7,Majid,2,DEFENSA,23,21/03/1990,211,Sepahan,Ramin Rezaeian,2,1,0,0.5,1.5,3.5,6.5,0.0,0.0,Nike
+19,Iran,24,7,Majid,2,DEFENSA,5,29/09/1993,34,AEK Athens,Milad Mohammadi,3,0,0,0.45,0.45,4.55,7.72,0.0,0.0,Nike
+19,Iran,24,7,Majid,2,DEFENSA,4,31/05/1989,212,Al-Ahli,Shojae Khalilzadeh,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+19,Iran,24,7,Majid,2,DEFENSA,2,24/03/1996,32,Dinamo Zagreb,Sadegh Moharrami,1,0,0,0.0,1.0,1.0,3.0,0.0,0.0,Nike
+19,Iran,24,7,Majid,2,DEFENSA,19,20/06/1996,213,Kayserispor,Majid Hosseini,3,0,0,0.0,2.0,2.0,6.33,0.0,0.0,Adidas
+19,Iran,24,7,Majid,2,DEFENSA,25,26/06/1998,208,Esteghlal,Abolfazi Jalali,1,0,0,1.0,0.0,0.0,0.0,0.0,0.0,Nike
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,11,02/04/1988,206,Persepolis,Vahid Amiri,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,7,11/08/1993,65,Feyenoord,Alireza Jahanbakhsh,2,0,0,1.53,1.53,1.53,3.05,0.0,0.0,Adidas
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,6,01/10/1996,214,Vejle,Saeid Ezatolahi,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,16,10/09/1994,206,Persepolis,Mehdi Torabi,3,0,0,3.05,3.05,1.53,3.05,0.0,0.0,Nike
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,15,24/06/1993,208,Esteghlal,Rouzbeh Cheshmi,2,1,0,0.0,3.05,0.0,3.06,0.0,0.0,Adidas
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,14,06/09/1993,173,Brentford,Saman Ghoddos,1,0,0,0.0,0.0,2.05,2.05,0.0,0.0,Nike
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,17,10/03/1996,215,Charleroi,Ali Gholizadeh,3,0,1,3.18,1.36,0.0,1.82,0.0,0.0,Nike
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,21,02/01/1993,216,Shabab Al-Ahli,Ahmad Nourollahi,3,0,0,0.8,2.4,2.0,3.2,0.0,0.0,Nike
+19,Iran,24,7,Majid,3,CENTROCAMPISTA,18,11/02/1994,213,Kayserispor,Ali Karimi,3,0,0,0.0,2.76,2.76,9.19,0.0,0.0,Puma
+19,Iran,24,7,Majid,4,DELANTERO,10,03/04/1990,217,Omonia,Karim Ansarifard,2,0,0,0.0,2.57,0.0,0.0,0.0,0.0,Nike
+19,Iran,24,7,Majid,4,DELANTERO,20,01/01/1995,12,Bayer Leverkusen,Sardar Azmoun,3,0,0,0.71,0.0,0.0,6.37,0.0,0.0,Nike
+19,Iran,24,7,Majid,4,DELANTERO,9,18/07/1992,78,Porto,Mehdi Taremi,3,2,1,1.67,0.67,1.33,6.34,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,1,PORTERO,12,22/06/1993,74,Leicester City,Danny Ward,2,0,0,0.0,0.0,0.0,0.0,57.14,0.0,Nike
+20,Wales,28,1,Adidas,1,PORTERO,1,24/01/1987,178,Nottingham Forest,Wayne Hennessey,2,0,0,0.0,0.0,0.0,0.0,83.33,0.0,Nike
+20,Wales,28,1,Adidas,1,PORTERO,21,17/07/1992,142,Sheffield United,Adam Davies,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+20,Wales,28,1,Adidas,2,DEFENSA,4,24/04/1993,9,Tottenham,Ben Davies,3,0,0,1.13,0.38,1.51,8.67,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,2,DEFENSA,24,30/05/2000,115,Swansea City,Ben Cabango,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,2,DEFENSA,6,22/10/1997,20,Rennes,Joe Rodon,3,0,0,0.0,1.33,0.67,2.0,0.0,0.0,Nike
+20,Wales,28,1,Adidas,2,DEFENSA,5,05/11/1997,218,Bournemouth,Chris Mepham,3,0,0,0.0,0.33,2.33,7.33,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,2,DEFENSA,15,14/09/2000,123,Spezia,Ethan Ampadu,3,0,0,0.7,1.4,1.4,4.9,0.0,0.0,Nike
+20,Wales,28,1,Adidas,2,DEFENSA,2,21/07/1989,219,AFC Wimbledon,Chris Gunter,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,2,DEFENSA,3,13/04/2001,178,Nottingham Forest,Neco Williams,3,0,0,1.32,1.76,2.2,6.59,0.0,0.0,Puma
+20,Wales,28,1,Adidas,2,DEFENSA,14,23/09/1995,61,Burnley,Connor Roberts,3,0,0,0.0,0.45,1.34,2.69,0.0,0.0,Nike
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,22,25/01/1999,220,Huddersfield Town,Sorba Thomas,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,7,14/03/2000,115,Swansea City,Joe Allen,2,0,0,0.0,0.96,0.96,2.87,0.0,0.0,Nike
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,26,22/11/1999,221,MK Dons,Matthew Smith,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,23,17/11/2000,86,Dundee United,Dylan Levitt,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,8,22/03/1997,80,Fulham,Harry Wilson,3,0,0,0.0,0.56,2.25,4.5,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,16,03/01/1997,222,Portsmouth,Joe Morrell,2,0,0,0.0,2.9,0.0,0.0,0.0,0.0,Nike
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,18,09/10/1993,223,Swindon Town,Jonny Williams,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,3,CENTROCAMPISTA,10,26/12/1990,224,Nice,Aaron Ramsey,3,0,0,2.36,0.0,0.67,2.36,0.0,0.0,Nike
+20,Wales,28,1,Adidas,4,DELANTERO,25,27/04/2000,225,Cardiff City,Rubin Colwill,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,4,DELANTERO,11,16/07/1989,110,Los Angeles FC,Gareth Bale,3,1,0,0.8,0.4,0.4,5.97,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,4,DELANTERO,13,08/08/1992,218,Bournemouth,Kieffer Moore,3,0,0,0.0,0.8,0.4,10.85,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,4,DELANTERO,19,29/12/1998,225,Cardiff City,Mark Harris,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+20,Wales,28,1,Adidas,4,DELANTERO,9,23/05/2001,178,Nottingham Forest,Brennan Johnson,3,0,0,4.0,0.0,0.0,0.0,0.0,0.0,Adidas
+20,Wales,28,1,Adidas,4,DELANTERO,20,10/11/1997,80,Fulham,Dan James,3,0,0,0.58,0.58,0.58,1.73,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,1,PORTERO,13,13/07/1985,226,America,Guillermo Ochoa,3,0,0,0.0,0.0,0.0,0.0,50.0,33.0,Nike
+21,Mexico,15,1,Adidas,1,PORTERO,1,18/09/1982,227,Juarez,Alfredo Talavera,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Pirma
+21,Mexico,15,1,Adidas,1,PORTERO,12,03/07/1987,192,Leon,Rodolfo Cota,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Pirma
+21,Mexico,15,1,Adidas,2,DEFENSA,15,17/01/1988,228,Monterrey,Hector Moreno,3,0,0,0.0,0.33,0.67,5.0,0.0,0.0,Charly
+21,Mexico,15,1,Adidas,2,DEFENSA,23,15/08/1994,228,Monterrey,Jesus Gallardo,3,0,0,1.33,0.33,3.0,5.0,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,2,DEFENSA,2,29/08/1991,226,America,Nestor Araujo,1,0,0,0.0,3.0,1.0,1.0,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,2,DEFENSA,3,24/02/1997,228,Monterrey,Cesar Montes,3,0,1,0.67,0.67,2.0,7.33,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,2,DEFENSA,19,10/12/1997,66,Ajax,Jorge Sanchez,2,0,0,2.56,1.02,0.51,4.7,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,2,DEFENSA,6,07/09/1998,59,Genk,Gerardo Arteaga,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,2,DEFENSA,26,15/01/1999,196,Pachuca,Kevin Alvarez,2,0,0,3.86,1.29,1.29,3.86,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,2,DEFENSA,5,22/10/1998,229,Cremonese,Johan Vasquez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,18,28/09/1986,7,Real Betis,Andres Guardado,1,0,0,0.0,0.0,8.57,8.57,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,16,19/04/1990,230,Houston Dynamo,Hector Herrera,3,0,0,0.0,0.33,0.67,5.0,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,4,24/10/1997,66,Ajax,Edson Alvarez,2,0,0,0.51,2.05,1.02,13.29,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,17,24/03/1996,34,AEK Athens,Orbelin Pineda,1,0,0,1.17,0.0,4.68,9.35,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,21,21/08/1997,197,Cruz Azul,Uriel Antuna,3,0,0,0.0,0.0,4.86,6.08,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,14,15/06/1995,68,PSV,Erick Gutierrez,1,0,0,0.0,3.75,1.88,0.0,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,8,03/01/1997,197,Cruz Azul,Carlos Rodriguez,2,0,0,2.0,0.0,0.0,8.44,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,25,07/09/1998,231,Guadalajara,Roberto Alvarado,1,0,0,1.0,0.0,0.0,10.58,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,7,05/06/1995,228,Monterrey,Luis Romo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,10,25/11/1997,231,Guadalajara,Alexis Vega,3,0,0,1.38,0.46,0.0,4.13,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,3,CENTROCAMPISTA,24,15/01/1996,196,Pachuca,Luis Chavez,3,1,0,1.33,0.0,0.33,7.0,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,4,DELANTERO,9,05/05/1991,79,Wolves,Raul Jimenez,3,0,0,0.0,1.61,0.0,11.25,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,4,DELANTERO,22,30/07/1995,131,Napoli,Hirving Lozano,3,0,0,2.49,0.0,2.49,8.54,0.0,0.0,Nike
+21,Mexico,15,1,Adidas,4,DELANTERO,20,18/11/1992,226,America,Henry Martin,2,1,0,0.0,1.82,0.61,6.08,0.0,0.0,Adidas
+21,Mexico,15,1,Adidas,4,DELANTERO,11,05/03/1991,228,Monterrey,Rogelio Funes Mori,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+22,Saudi Arabia,49,2,Nike,1,PORTERO,21,10/10/1991,232,Al-Hilal,Mohammed Al-Owais,3,0,0,0.0,0.0,0.0,0.0,73.68,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,1,PORTERO,1,14/08/1997,212,Al-Ahli,Mohammed Al Yami,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,1,PORTERO,22,10/05/2000,233,Al-Nassr,Nawaf Al-Aqidi,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,13,25/05/1992,232,Al-Hilal,Yasser Al-Shahrani,1,0,0,0.0,6.0,3.0,3.0,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,6,15/09/1992,232,Al-Hilal,Mohammed Al-Breik,2,0,0,0.0,0.0,1.38,5.53,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,5,21/11/1989,232,Al-Hilal,Ali Al-Bulaihi,3,0,0,0.0,1.24,1.66,4.56,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,2,06/05/1994,233,Al-Nassr,Sultan Al-Ghanam,3,0,0,1.44,1.44,0.0,0.0,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,12,18/07/1999,232,Al-Hilal,Saud Abdulhamid,3,0,0,1.0,0.33,1.67,6.66,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,4,15/01/1997,233,Al-Nassr,Abdulelah Al-Amri,3,0,0,0.0,1.98,0.49,0.0,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,17,09/02/1999,128,Al-Shabab,Hassan Tambakti,2,0,0,0.0,1.0,2.0,5.5,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,2,DEFENSA,3,15/07/1993,233,Al-Nassr,Abdullah Madu,1,0,0,0.0,2.05,2.05,6.14,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,18,26/01/1990,128,Al-Shabab,Nawaf Alabid,2,0,0,0.66,2.09,0.0,6.28,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,7,01/08/1989,232,Al-Hilal,Salman Al-Faraj,1,0,0,0.0,0.0,2.0,2.0,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,10,19/08/1991,232,Al-Hilal,Salem Al-Dawsari,3,2,0,2.33,0.33,1.67,3.66,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,14,03/08/1992,232,Al-Hilal,Abdullah Otayf,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,23,22/09/1994,232,Al-Hilal,Mohamed Kanno,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,8,11/10/1994,232,Al-Hilal,Abdulellah Al-Malki,2,0,0,0.0,1.54,2.06,4.11,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,16,07/02/1997,233,Al-Nassr,Sami Al-Najei,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,15,04/03/1997,233,Al-Nassr,Ali Al-Hassan,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,24,19/12/1998,232,Al-Hilal,Nasser Al-Dawsari,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,3,CENTROCAMPISTA,20,01/06/1995,64,Al-Ittihad,Abdulrahman Al-Aboud,2,0,0,0.66,0.0,0.0,0.0,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,4,DELANTERO,9,14/05/2000,234,Al-Fateh,Firas Al-Buraikan,3,0,1,1.67,0.67,1.0,6.36,0.0,0.0,Nike
+22,Saudi Arabia,49,2,Nike,4,DELANTERO,11,01/11/1993,232,Al-Hilal,Saleh Al-Shehri,3,1,0,0.8,0.0,1.2,8.0,0.0,0.0,Adidas
+22,Saudi Arabia,49,2,Nike,4,DELANTERO,25,25/03/2001,212,Al-Ahli,Haitham Asiri,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,1,PORTERO,1,05/11/1986,224,Nice,Kasper Schmeichel,3,0,0,0.0,0.0,0.0,0.0,72.73,33.0,Nike
+23,Denmark,18,8,Hummel,1,PORTERO,16,22/03/1999,235,Hertha Berlin,Oliver Christensen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+23,Denmark,18,8,Hummel,1,PORTERO,22,04/08/1992,236,Union Berlin,Frederik Ronnow,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,2,DEFENSA,4,26/03/1989,25,AC Milan,Simon Kjaer,1,0,0,0.0,6.92,0.0,8.3,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,2,DEFENSA,6,10/04/1996,22,Barcelona,Andreas Christensen,3,1,0,0.0,1.33,1.67,6.0,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,2,DEFENSA,17,21/02/1991,237,Trabzonspor,Jens Stryger Larsen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,2,DEFENSA,18,31/05/1989,238,Brondby,Daniel Wass,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,2,DEFENSA,13,11/07/1997,109,Leeds United,Rasmus Kristensen,3,0,0,1.59,0.8,3.58,6.77,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,2,DEFENSA,5,20/05/1997,42,Atalanta,Joakim Maehle,3,0,0,3.25,0.72,3.25,5.42,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,2,DEFENSA,2,31/05/1996,239,Crystal Palace,Joachim Andersen,3,0,1,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,2,DEFENSA,8,03/09/1991,5,Sevilla,Thomas Delaney,1,0,0,0.0,0.0,0.0,8.0,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,2,DEFENSA,3,14/10/1998,183,Galatasaray,Victor Nelsson,1,0,0,0.0,2.0,0.0,10.0,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,2,DEFENSA,26,09/12/1997,4,Benfica,Alexander Bah,2,0,0,0.5,4.06,0.0,0.0,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,3,CENTROCAMPISTA,10,14/02/1992,10,Manchester United,Christian Eriksen,3,0,0,1.33,0.33,0.33,0.67,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,3,CENTROCAMPISTA,15,10/03/1994,173,Brentford,Christian Norgaard,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+23,Denmark,18,8,Hummel,3,CENTROCAMPISTA,23,05/08/1995,9,Tottenham,Pierre-Emile Hojbjerg,3,0,0,0.67,1.33,1.33,2.66,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,3,CENTROCAMPISTA,7,01/01/1996,173,Brentford,Mathias Jensen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,4,DELANTERO,24,20/05/1996,45,Hoffenheim,Robert Skov,1,0,0,1.0,0.0,0.0,0.0,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,4,DELANTERO,9,05/06/1991,240,Espanyol,Martin Braithwaite,2,0,0,1.75,0.0,0.0,2.62,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,4,DELANTERO,21,16/03/1993,83,Copenhagen,Andreas Cornelius,3,0,0,0.98,0.0,0.0,0.0,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,4,DELANTERO,12,06/10/1997,5,Sevilla,Kasper Dolberg,3,0,0,1.59,0.0,0.8,3.19,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,4,DELANTERO,11,29/12/1999,70,Club Brugge,Andreas Skov Olsen,2,0,0,1.34,0.0,0.0,2.01,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,4,DELANTERO,14,03/07/2000,173,Brentford,Mikkel Damsgaard,3,0,0,0.6,0.6,2.42,3.02,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,4,DELANTERO,19,07/02/1999,129,Wolfsburg,Jonas Wind,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+23,Denmark,18,8,Hummel,4,DELANTERO,25,29/02/2000,30,Eintracht Frankfurt,Jesper Lindstrom,3,0,0,5.4,0.0,0.45,4.95,0.0,0.0,Adidas
+23,Denmark,18,8,Hummel,4,DELANTERO,20,15/06/1994,39,RB Leipzig,Yussuf Yurary Poulsen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,1,PORTERO,16,27/01/1997,241,CS Sfaxien,Aymen Dahmen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,1,PORTERO,26,05/03/1995,242,Club Africain,Mouez Hassen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,1,PORTERO,1,14/09/1984,243,Etoile du Sahel,Balbouli,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,1,PORTERO,22,29/11/1994,244,US Monastir,Bechir Ben Saïd,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,2,DEFENSA,20,25/06/1996,181,Luzern,Mohamed Drager,2,0,0,1.34,0.67,3.36,7.38,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,2,DEFENSA,21,05/11/1995,245,Atromitos,Wajdi Kechrida,3,0,0,3.3,0.0,2.48,4.96,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,2,DEFENSA,2,09/03/1990,246,Kuwait SC,Bilel Ifa,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,2,DEFENSA,3,26/05/1998,247,Lorient,Montassar Talbi,3,0,0,0.0,0.33,1.0,7.0,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,2,DEFENSA,6,19/06/1995,132,Salernitana,Dylan Bronn,2,0,0,0.0,0.0,1.66,4.41,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,2,DEFENSA,4,02/07/1993,248,Esperalace,Yassine Meriah,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,2,DEFENSA,5,18/02/1995,242,Club Africain,Nader Ghandri,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+24,Tunisia,30,9,Kappa,2,DEFENSA,12,01/01/1990,249,Al Ahly,Ali Maaloul,1,0,0,0.0,0.0,1.0,1.0,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,2,DEFENSA,24,20/12/1993,250,Caen,Ali Abdi,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,3,CENTROCAMPISTA,17,10/05/1995,251,FC Koln,Ellyes Skhiri,3,0,0,0.67,2.33,3.33,5.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,3,CENTROCAMPISTA,14,13/12/1996,252,Ferencvaros,Aissa Laidouni,3,0,1,1.1,1.1,1.1,1.47,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,3,CENTROCAMPISTA,13,18/03/1992,202,Al-Duhail,Ferjani Sassi,2,0,0,1.0,1.96,3.91,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,3,CENTROCAMPISTA,18,28/02/1994,253,Esperance de Tunis,Ghailene Chaalali,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,3,CENTROCAMPISTA,8,21/01/2003,10,Manchester United,Hannibal Mejbri,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,3,CENTROCAMPISTA,15,06/09/1999,253,Esperance de Tunis,Mohamed Ali Ben Romdhane,1,0,0,1.22,0.0,6.08,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,4,DELANTERO,19,12/02/1993,254,Zamalek,Seifeddine Jaziri,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,4,DELANTERO,26,27/07/1992,255,Al-Ettifaq,Naim Sliti,2,0,0,4.78,0.0,2.39,0.0,0.0,0.0,Adidas
+24,Tunisia,30,9,Kappa,4,DELANTERO,11,06/01/1992,246,Kuwait SC,Taha Yassine Khenissi,2,0,0,0.0,0.0,0.0,3.33,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,4,DELANTERO,25,16/03/2001,238,Brondby,Anis Ben Slimane,2,0,0,0.6,0.6,1.8,9.0,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,4,DELANTERO,9,25/12/1991,92,OB,Issam Jebali,3,0,0,0.98,0.0,1.48,4.91,0.0,0.0,Mizuno
+24,Tunisia,30,9,Kappa,4,DELANTERO,10,08/02/1991,176,Montpellier,Wahbi Khazri,2,1,0,1.0,0.0,2.17,4.34,0.0,0.0,Nike
+24,Tunisia,30,9,Kappa,4,DELANTERO,7,28/10/1990,202,Al-Duhail,Youssef Msakni,2,0,0,2.65,0.0,1.59,9.0,0.0,0.0,Nike
+25,Germany,14,1,Adidas,1,PORTERO,1,27/03/1986,21,Bayern Munich,Manuel Neuer,3,0,0,0.0,0.0,0.0,0.0,61.54,0.0,Adidas
+25,Germany,14,1,Adidas,1,PORTERO,22,30/04/1992,22,Barcelona,Marc-Andre ter Stegen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,1,PORTERO,12,08/07/1990,30,Eintracht Frankfurt,Kevin Trapp,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,2,DEFENSA,2,03/03/1993,27,Real Madrid,Antonio Rudiger,3,0,0,0.0,0.0,0.67,5.67,0.0,0.0,Nike
+25,Germany,14,1,Adidas,2,DEFENSA,4,18/01/1994,152,Freiburg,Matthias Ginter,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+25,Germany,14,1,Adidas,2,DEFENSA,15,03/09/1995,73,Borussia Dortmund,Niklas Sule,3,0,0,0.0,0.0,1.67,6.33,0.0,0.0,Nike
+25,Germany,14,1,Adidas,2,DEFENSA,5,21/09/1996,50,West Ham,Thilo Kehrer,1,0,0,0.0,2.57,7.71,7.71,0.0,0.0,Nike
+25,Germany,14,1,Adidas,2,DEFENSA,16,03/06/1996,39,RB Leipzig,Lukas Klostermann,2,0,0,0.0,0.0,4.22,4.22,0.0,0.0,Nike
+25,Germany,14,1,Adidas,2,DEFENSA,3,22/04/1998,39,RB Leipzig,David Raum,3,0,1,1.11,2.58,1.84,7.37,0.0,0.0,Nike
+25,Germany,14,1,Adidas,2,DEFENSA,20,28/02/1993,152,Freiburg,Christian Gunter,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+25,Germany,14,1,Adidas,2,DEFENSA,23,01/12/1999,73,Borussia Dortmund,Nico Schlotterbeck,2,0,0,1.94,0.97,3.87,8.71,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,2,DEFENSA,25,11/12/2001,256,Southampton,Armel Bella-Kotchap,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,6,08/02/1995,21,Bayern Munich,Joshua Kimmich,3,0,0,1.67,1.33,1.67,4.67,0.0,0.0,Nike
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,11,03/06/1992,30,Eintracht Frankfurt,Mario Gotze,2,0,0,1.0,0.0,0.0,0.0,0.0,0.0,Nike
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,21,24/10/1990,18,Manchester City,Ilkay Gundogan,3,1,0,0.94,0.47,1.41,6.1,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,8,06/02/1995,21,Bayern Munich,Leon Goretzka,3,0,0,0.0,0.57,2.83,7.93,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,17,02/05/1996,73,Borussia Dortmund,Julian Brandt,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,7,11/06/1999,41,Chelsea,Kai Havertz,2,2,0,0.0,0.87,0.87,0.87,0.0,0.0,Nike
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,14,26/02/2003,21,Bayern Munich,Jamal Musiala,3,0,1,10.08,0.35,0.35,9.04,0.0,0.0,Nike
+25,Germany,14,1,Adidas,3,CENTROCAMPISTA,18,14/07/1992,31,Borussia Monchengladbach,Jonas Hofmann,2,0,0,3.21,0.0,0.0,0.0,0.0,0.0,Puma
+25,Germany,14,1,Adidas,4,DELANTERO,13,13/09/1989,21,Bayern Munich,Thomas Muller,3,0,0,0.0,0.44,0.89,2.21,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,4,DELANTERO,19,11/01/1996,21,Bayern Munich,Leroy Sane,2,0,1,4.09,0.0,0.82,3.87,0.0,0.0,Nike
+25,Germany,14,1,Adidas,4,DELANTERO,10,14/07/1995,21,Bayern Munich,Serge Gnabry,3,1,1,1.7,68.0,1.7,3.4,0.0,0.0,Adidas
+25,Germany,14,1,Adidas,4,DELANTERO,24,18/01/2002,73,Borussia Dortmund,Karim Adeyemi,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+25,Germany,14,1,Adidas,4,DELANTERO,9,09/02/1993,257,Werder Bremen,Niclas Fullkrug,3,2,1,0.33,0.0,0.0,13.63,0.0,0.0,Nike
+25,Germany,14,1,Adidas,4,DELANTERO,26,20/11/2004,73,Borussia Dortmund,Youssoufa Moukoko,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,1,PORTERO,1,15/12/1986,15,PSG,Keylor Navas,3,0,0,0.0,0.0,0.0,0.0,50.0,33.0,Adidas
+26,Costa Rica,32,10,New Balance,1,PORTERO,18,28/04/1989,258,Herediano,Esteban Alvarado,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+26,Costa Rica,32,10,New Balance,1,PORTERO,23,01/03/1999,259,Lugo,Patrick Sequeira,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,2,DEFENSA,8,18/02/1990,260,Real Salt Lake,Bryan Oviedo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,2,DEFENSA,6,03/06/1989,261,Al-Wehda,Oscar Duarte,3,0,0,0.0,2.33,1.33,2.67,0.0,0.0,Adidas
+26,Costa Rica,32,10,New Balance,2,DEFENSA,19,01/01/1988,262,Aprissa,Kendall Waston,3,0,0,0.0,2.01,2.81,6.02,0.0,0.0,New Balance
+26,Costa Rica,32,10,New Balance,2,DEFENSA,22,09/07/1994,263,Cincinnati,Ronald Matarrita,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,2,DEFENSA,4,12/07/1994,258,Herediano,Keysher Fuller,3,1,0,0.71,0.71,1.77,3.54,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,2,DEFENSA,3,06/06/1995,264,Millonarios,Juan Pablo Vargas,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,2,DEFENSA,16,30/03/1999,265,San Carlos,Carlos Martinez,1,0,0,0.0,1.96,1.96,5.87,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,5,27/05/1988,266,Alajuelense,Celso Borges,3,0,0,0.72,1.79,1.79,6.81,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,10,18/08/1985,266,Alajuelense,Bryan Ruiz,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,17,17/03/1992,258,Herediano,Yeltsin Tejeda,3,1,1,33.0,0.33,1.33,4.66,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,13,28/08/1997,258,Herediano,Gerson Torres,1,0,0,0.0,0.0,0.0,11.08,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,9,15/06/2004,88,Sunderland,Jewison Bennette,3,0,0,3.53,0.0,0.0,2.65,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,2,11/04/2001,267,Colorado Rapids,Daniel Chacon,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,14,17/06/1996,268,Saprissa,Youstin Salas,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,24,01/05/2002,269,Municipal Grecia,Roan Wilson,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,20,28/06/2003,178,Nottingham Forest,Brandon Aguilera,3,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,21,21/09/1998,258,Herediano,Douglas Lopez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,25,11/10/2001,270,Puntarenas,Anthony Hernandez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,3,CENTROCAMPISTA,26,09/03/2002,268,Saprissa,Alvaro Zamora,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,4,DELANTERO,12,26/06/1992,192,Leon,Joel Campbell,3,0,0,3.0,0.0,3.0,12.0,0.0,0.0,Pima
+26,Costa Rica,32,10,New Balance,4,DELANTERO,11,27/11/1988,266,Alajuelense,Johan Venegas,1,0,0,1.22,0.0,0.0,1.22,0.0,0.0,Nike
+26,Costa Rica,32,10,New Balance,4,DELANTERO,7,29/01/2000,258,Herediano,Anthony Contreras,3,0,0,0.0,0.71,3.57,11.43,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,1,PORTERO,1,11/05/1992,27,Real Madrid,Thibaut Courtois,3,0,0,0.0,0.0,0.0,0.0,81.82,67.0,Nike
+27,Belgium,4,1,Adidas,1,PORTERO,12,06/03/1988,70,Club Brugge,Simon Mignolet,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,1,PORTERO,13,25/06/1992,129,Wolfsburg,Koen Casteels,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,2,DEFENSA,2,02/03/1989,69,Antwerp,Toby Alderweireld,3,0,1,0.0,0.0,1.33,2.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,2,DEFENSA,3,25/05/2000,20,Rennes,Arthur Theate,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+27,Belgium,4,1,Adidas,2,DEFENSA,26,24/10/2003,137,Anderlecht,Zeno Debast,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,2,DEFENSA,5,24/04/1987,137,Anderlecht,Jan Vertonghen,3,0,0,0.0,1.67,0.0,9.34,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,2,DEFENSA,4,03/04/1998,74,Leicester City,Wout Faes,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,2,DEFENSA,21,05/12/1995,271,Leicester,Timothy Castagne,3,0,0,0.33,0.67,2.0,4.33,0.0,0.0,Adidas
+27,Belgium,4,1,Adidas,2,DEFENSA,15,12/09/1991,73,Borussia Dortmund,Thomas Meunier,3,0,0,0.85,0.85,2.55,5.1,0.0,0.0,Adidas
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,16,29/03/1993,73,Borussia Dortmund,Thorgan Hazard,2,0,0,1.7,0.0,2.55,4.25,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,7,28/06/1991,18,Manchester City,Kevin De Bruyne,3,0,0,1.67,0.0,0.33,4.33,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,11,04/09/1993,8,Atletico Madrid,Yannick Carrasco,2,0,0,2.29,0.76,3.81,6.1,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,19,15/04/1995,1,Aston Villa,Leander Dendoncker,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,8,07/05/1997,74,Leicester City,Youri Tielemans,3,0,0,0.0,1.91,2.87,7.65,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,20,24/08/1992,70,Club Brugge,Hans Vanaken,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,6,12/01/1989,8,Atletico Madrid,Axel Witsel,3,0,0,0.0,1.33,1.33,5.66,0.0,0.0,Puma
+27,Belgium,4,1,Adidas,3,CENTROCAMPISTA,22,10/03/2001,25,AC Milan,Charles De Ketelaere,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+27,Belgium,4,1,Adidas,4,DELANTERO,25,27/05/2002,20,Rennes,Jeremy Doku,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,4,DELANTERO,10,07/01/1991,27,Real Madrid,Eden Hazard,2,0,0,5.04,0.72,0.0,9.36,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,4,DELANTERO,14,06/05/1987,183,Galatasaray,Dries Mertens,2,0,0,1.18,0.0,2.37,3.55,0.0,0.0,Nike
+27,Belgium,4,1,Adidas,4,DELANTERO,17,04/12/1994,13,Brighton,Leandro Trossard,3,0,0,3.53,0.0,0.0,1.76,0.0,0.0,Adidas
+27,Belgium,4,1,Adidas,4,DELANTERO,23,02/10/1993,198,Fenerbahce,Michy Batshuayi,2,1,0,1.76,0.0,0.59,3.04,0.0,0.0,Adidas
+27,Belgium,4,1,Adidas,4,DELANTERO,24,16/02/2000,126,Lens,Lois Openda,1,0,0,1.0,0.0,7.5,0.0,0.0,0.0,Adidas
+27,Belgium,4,1,Adidas,4,DELANTERO,9,13/05/1993,16,Inter,Romelu Lukaku,2,0,0,1.7,0.0,0.0,5.1,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,1,PORTERO,23,02/04/1996,16,Inter,Andre Onana,1,0,0,0.0,0.0,0.0,0.0,66.67,0.0,Adidas
+28,Cameroon,33,11,One All Sports,1,PORTERO,16,02/02/1993,272,Abha,Davis Epassy,2,0,0,0.0,0.0,0.0,0.0,75.0,50.0,Lotto
+28,Cameroon,33,11,One All Sports,1,PORTERO,1,12/04/1993,29,Marseille,Simon Ngapandouetnbu,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+28,Cameroon,33,11,One All Sports,2,DEFENSA,24,11/03/1999,273,Udinese,Enzo Ebosse,1,0,0,0.0,0.0,4.0,0.0,0.0,0.0,Adidas
+28,Cameroon,33,11,One All Sports,2,DEFENSA,19,13/08/1992,274,Al-Tai,Collins Fai,3,0,0,0.33,1.33,1.0,3.1,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,2,DEFENSA,17,15/08/1997,275,Philadelphia Union,Olivier Mbaizo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+28,Cameroon,33,11,One All Sports,2,DEFENSA,21,26/01/1995,276,Nantes,Jean Charles Castelletto,2,1,1,0.0,3.0,1.5,6.0,0.0,0.0,
+28,Cameroon,33,11,One All Sports,2,DEFENSA,25,23/06/1997,113,Seattle Sounders,Nouhou Tolo,3,0,0,1.67,2.0,3.0,6.33,0.0,0.0,Adidas
+28,Cameroon,33,11,One All Sports,2,DEFENSA,4,18/09/2001,20,Rennes,Christopher Wooh,1,0,0,0.0,1.0,2.0,2.0,0.0,0.0,Puma
+28,Cameroon,33,11,One All Sports,3,CENTROCAMPISTA,22,09/02/1996,115,Swansea City,Olivier Ntcham,1,0,0,1.0,0.0,0.0,4.09,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,3,CENTROCAMPISTA,5,04/11/1995,277,Hannover,Gael Ondoua,2,0,0,0.0,4.0,4.0,10.0,0.0,0.0,Puma
+28,Cameroon,33,11,One All Sports,3,CENTROCAMPISTA,15,26/07/1995,135,Olympiacos,Pierre Kunde,2,0,0,0.0,2.67,2.67,4.67,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,3,CENTROCAMPISTA,14,14/12/1997,278,Mechelen,Samuel Gouet,2,0,0,0.0,0.0,0.91,3.64,0.0,0.0,Puma
+28,Cameroon,33,11,One All Sports,3,CENTROCAMPISTA,8,16/11/1995,131,Napoli,Andre-Frank Zambo Anguissa,3,0,0,1.38,1.72,1.38,6.55,0.0,0.0,Adidas
+28,Cameroon,33,11,One All Sports,3,CENTROCAMPISTA,2,30/09/1998,279,San Diego Loyal SC,Jerome Ngom,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,6,09/07/1994,280,Dynamo Moscow,Moumi Ngamaleu,2,0,0,2.84,0.0,2.84,9.47,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,11,18/10/1995,281,Shanghai Shenhua,Christian Bassogog,1,0,0,4.0,3.91,0.0,0.0,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,20,07/08/1995,173,Brentford,Bryan Mbeumo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,7,13/02/1995,51,Besiktas,Georges-Kevin Nkoudou,2,0,0,1.0,0.0,0.0,3.6,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,9,01/05/1993,182,Young Boys,Jean-Pierre Nsame,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,10,22/01/1992,233,Al-Nassr,Vincent Aboubakar,3,2,1,3.83,0.0,0.0,6.39,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,12,14/09/1992,6,Lyon,Karl Toko Ekambi,3,0,0,2.16,0.54,0.54,3.77,0.0,0.0,Nike
+28,Cameroon,33,11,One All Sports,4,DELANTERO,13,23/03/1989,21,Bayern Munich,Eric Maxim Choupo-Moting,3,1,0,2.48,0.35,1.42,10.63,0.0,0.0,Puma
+28,Cameroon,33,11,One All Sports,4,DELANTERO,26,03/12/2000,282,Coton Sport de Garoua,Souaibou Marou,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+29,Serbia,29,4,Puma,1,PORTERO,1,24/01/1992,5,Sevilla,Marko Dmitrovic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+29,Serbia,29,4,Puma,1,PORTERO,23,20/02/1997,43,Torino,Vanja Milinkovic-Savic,3,0,0,0.0,0.0,0.0,0.0,65.22,0.0,Nike
+29,Serbia,29,4,Puma,2,DEFENSA,13,22/05/1990,283,Getafe,Stefan Mitrovic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+29,Serbia,29,4,Puma,2,DEFENSA,25,15/08/1991,122,Legia Warsaw,Filip Mladenovic,1,0,0,2.73,0.0,0.0,2.72,0.0,0.0,Adidas
+29,Serbia,29,4,Puma,2,DEFENSA,2,24/05/2001,284,Salzburg,Strahinja Pavlovic,3,1,0,0.38,0.38,3.05,14.11,0.0,0.0,Puma
+29,Serbia,29,4,Puma,2,DEFENSA,5,26/09/1995,257,Werder Bremen,Milos Veljkovic,3,0,0,0.0,0.0,1.21,2.83,0.0,0.0,Nike
+29,Serbia,29,4,Puma,2,DEFENSA,3,22/01/2001,285,Red Star Belgrade,Strahinja Erakovic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+29,Serbia,29,4,Puma,2,DEFENSA,16,22/04/1996,286,Almeria,Srdan Babic,1,0,0,0.0,0.0,7.5,7.5,0.0,0.0,Nike
+29,Serbia,29,4,Puma,2,DEFENSA,4,12/10/1997,55,Fiorentina,Nikola Milenkovic,3,0,0,0.0,1.67,3.33,8.0,0.0,0.0,Puma
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,8,16/11/1991,5,Sevilla,Nemanja Gudelj,2,0,0,0.0,0.98,1.96,3.91,0.0,0.0,Nike
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,17,01/11/1992,11,Juventus,Filip Kostic,2,0,0,1.0,0.0,3.0,3.5,0.0,0.0,Nike
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,6,26/01/1995,283,Getafe,Nemanja Maksimovic,3,0,0,0.0,2.27,2.27,3.03,0.0,0.0,Puma
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,20,27/02/1995,287,Lazio,Sergej Milinkovic-Savic,3,1,0,1.91,0.76,1.91,6.86,0.0,0.0,Nike
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,16,13/08/1996,43,Torino,Sasa Lukic,3,0,0,0.37,0.37,0.73,2.3,0.0,0.0,Nike
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,14,11/07/1996,288,PAOK,Andrija Zivkovic,3,0,2,0.42,1.27,2.11,5.5,0.0,0.0,Adidas
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,19,17/03/1998,289,Braga,Uros Racic,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,24,17/03/2001,290,Verona,Ivan Ilic,1,0,0,0.0,2.73,0.0,5.46,0.0,0.0,Nike
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,22,15/09/1990,290,Verona,Darko Lazovic,1,0,0,0.0,0.0,0.0,3.75,0.0,0.0,Adidas
+29,Serbia,29,4,Puma,3,CENTROCAMPISTA,26,13/04/1996,78,Porto,Marko Grujic,1,0,0,1.0,0.0,7.5,0.0,0.0,0.0,Nike
+29,Serbia,29,4,Puma,4,DELANTERO,9,16/09/1994,80,Fulham,Aleksandr Mitrovic,3,2,0,0.34,0.0,0.34,4.45,0.0,0.0,Puma
+29,Serbia,29,4,Puma,4,DELANTERO,18,28/01/2000,11,Juventus,Dusan Vlahovic,2,1,0,1.14,0.0,1.14,7.98,0.0,0.0,Nike
+29,Serbia,29,4,Puma,4,DELANTERO,7,15/02/1996,43,Torino,Nemanja Radonjic,3,0,0,3.16,0.0,0.0,3.16,0.0,0.0,Nike
+29,Serbia,29,4,Puma,4,DELANTERO,21,30/01/1992,56,Sampdoria,Filip Duricic,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+29,Serbia,29,4,Puma,4,DELANTERO,10,20/11/1988,66,Ajax,Dusan Tadic,3,0,2,2.09,0.35,1.4,3.84,0.0,0.0,Nike
+30,Ghana,58,4,Puma,1,PORTERO,16,08/02/1999,291,Eupen,Manaf Nurudeen,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+30,Ghana,58,4,Puma,1,PORTERO,12,02/12/2002,292,Asante Kotoko,Danlad Ibrahim,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+30,Ghana,58,4,Puma,1,PORTERO,1,29/11/1996,293,St. Gellen,Lawrence Ati Zigi,3,0,0,0.0,0.0,0.0,0.0,58.82,0.0,Adidas
+30,Ghana,58,4,Puma,2,DEFENSA,3,27/05/1988,70,Club Brugge,Denis Odoi,1,0,0,0.58,0.0,7.5,7.5,0.0,0.0,Lotto
+30,Ghana,58,4,Puma,2,DEFENSA,2,30/09/2000,13,Brighton,Tariq Lamptey,2,0,0,1.76,0.88,3.53,5.29,0.0,0.0,Adidas
+30,Ghana,58,4,Puma,2,DEFENSA,26,04/06/2000,124,Clermont,Alidu Seidu,2,0,0,2.31,0.0,3.46,9.81,0.0,0.0,Puma
+30,Ghana,58,4,Puma,2,DEFENSA,18,21/12/1994,74,Leicester City,Daniel Amartey,3,0,0,0.33,1.0,2.0,6.0,0.0,0.0,Adidas
+30,Ghana,58,4,Puma,2,DEFENSA,15,29/09/1995,111,Celta Vigo,Joseph Aidoo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+30,Ghana,58,4,Puma,2,DEFENSA,23,09/08/1994,144,Strasbourg,Alexander Djiku,2,0,0,0.0,0.93,0.93,6.5,0.0,0.0,Nike
+30,Ghana,58,4,Puma,2,DEFENSA,4,17/04/1999,256,Southampton,Mohammed Salisu,3,1,0,0.0,1.0,0.67,6.34,0.0,0.0,Nike
+30,Ghana,58,4,Puma,2,DEFENSA,17,02/07/1994,294,Reading,Abdul-Rahman Baba,3,0,0,1.98,0.49,2.47,6.93,0.0,0.0,New Balance
+30,Ghana,58,4,Puma,2,DEFENSA,14,18/07/1998,295,Auxerre,Gideon Mensah,1,0,0,0.0,2.05,1.02,9.2,0.0,0.0,Adidas
+30,Ghana,58,4,Puma,3,CENTROCAMPISTA,10,17/12/1989,200,Al-Sadd,Andre Ayew,3,1,0,0.45,0.0,1.79,7.61,0.0,0.0,Nike
+30,Ghana,58,4,Puma,3,CENTROCAMPISTA,5,13/06/1993,24,Arsenal,Thomas Partey,3,0,0,0.67,0.0,3.0,8.33,0.0,0.0,Adidas
+30,Ghana,58,4,Puma,3,CENTROCAMPISTA,6,07/11/1997,296,Gent,Elisha Owusu,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+30,Ghana,58,4,Puma,3,CENTROCAMPISTA,21,26/03/2000,126,Lens,Salis Abdul Samed,3,0,0,1.07,1.43,0.71,2.5,0.0,0.0,Adidas
+30,Ghana,58,4,Puma,3,CENTROCAMPISTA,20,02/08/2000,66,Ajax,Mohammed Kudus,3,2,0,4.34,0.36,1.81,6.51,0.0,0.0,Puma
+30,Ghana,58,4,Puma,3,CENTROCAMPISTA,8,09/03/1996,297,SC Freiburg,Daniel Kofi Kyereh,3,0,0,2.0,0.0,6.0,0.0,0.0,0.0,Nike
+30,Ghana,58,4,Puma,4,DELANTERO,13,26/06/2001,298,Hearts of Oak,Daniel Barnieh Afriyie,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+30,Ghana,58,4,Puma,4,DELANTERO,24,09/01/2000,70,Club Brugge,Kamal Sowah,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+30,Ghana,58,4,Puma,4,DELANTERO,7,08/03/2004,299,Sporting CP,Issahaku Abdul Fatawu,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+30,Ghana,58,4,Puma,4,DELANTERO,11,13/12/1998,285,Red Star Belgrade,Osman Bukari,2,1,0,2.0,0.0,1.55,3.1,0.0,0.0,Nike
+30,Ghana,58,4,Puma,4,DELANTERO,19,15/06/1994,174,Athletic Club,Inaki Williams,3,0,1,36.0,0.0,1.07,3.57,0.0,0.0,Nike
+30,Ghana,58,4,Puma,4,DELANTERO,25,07/01/2000,300,Bristol City,Antoine Semenyo,2,0,0,0.0,0.0,0.0,10.0,0.0,0.0,Adidas
+30,Ghana,58,4,Puma,4,DELANTERO,9,11/09/1991,239,Crystal Palace,Jordan Ayew,3,0,1,2.63,0.66,1.97,5.91,0.0,0.0,Puma
+30,Ghana,58,4,Puma,4,DELANTERO,22,15/02/2002,20,Rennes,Kamaldeen Sulemana,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,1,PORTERO,1,16/06/1986,183,Galatasaray,Fernando Muslera,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+31,Uruguay,16,4,Puma,1,PORTERO,23,23/03/1993,301,Nacional,Sergio Rochet,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,1,PORTERO,12,19/08/1986,302,Independiente,Sebastian Sosa,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,2,DEFENSA,4,07/03/1999,22,Barcelona,Ronald Araujo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,2,DEFENSA,22,07/04/1987,303,La Galaxy,Martin Caceres,1,0,0,1.0,0.0,0.0,3.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,2,DEFENSA,19,07/10/1990,299,Sporting CP,Sebastian Coates,2,0,0,0.0,0.5,0.5,7.5,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,2,DEFENSA,2,20/01/1995,8,Atletico Madrid,Jose Maria Gimenez,3,0,0,0.0,2.33,1.33,7.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,2,DEFENSA,3,16/02/1986,304,Velez Sarsfield,Diego Godin,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+31,Uruguay,16,4,Puma,2,DEFENSA,16,31/10/1997,131,Napoli,Mathias Olivera,3,0,0,0.71,0.71,3.18,8.47,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,2,DEFENSA,26,14/03/1997,301,Nacional,Jose Luis Rodriguez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+31,Uruguay,16,4,Puma,2,DEFENSA,17,09/11/1997,17,Roma,Matias Vina,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,2,DEFENSA,13,24/03/1993,77,Flamengo,Guillermo Varela,3,0,0,0.99,1.48,1.98,6.92,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,5,24/08/1991,287,Lazio,Matias Vecino,3,0,0,0.0,1.37,1.83,4.57,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,7,01/06/1997,305,River Plate,Nicolás de la Cruz,2,0,0,0.5,0.0,0.0,5.14,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,6,25/06/1997,138,Tottenham Hotspur,Rodrigo Bentancur,3,0,0,2.1,2.94,3.79,11.35,0.0,0.0,Adidas
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,15,22/07/1998,27,Real Madrid,Federico Valverde,3,0,0,1.0,1.67,1.67,3.33,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,10,01/06/1994,77,Flamengo,Giorgian de Arrascaeta,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,14,11/02/1996,183,Galatasaray,Lucas Torreira,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,20,13/04/2000,306,Orlando City,Facundo Torres,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,3,CENTROCAMPISTA,25,11/04/2001,299,Sporting CP,Manuel Ugarte,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+31,Uruguay,16,4,Puma,4,DELANTERO,9,24/01/1987,301,Nacional,Luis Suarez,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Puma
+31,Uruguay,16,4,Puma,4,DELANTERO,21,14/02/1987,112,Valencia,Edinson Cavani,3,0,0,0.0,0.0,0.0,1.48,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,4,DELANTERO,18,14/08/1996,237,Trabzonspor,Maxi Gomez,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+31,Uruguay,16,4,Puma,4,DELANTERO,11,24/06/1999,26,Liverpool,Darwin Nunez,3,0,0,0.74,0.0,1.12,5.95,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,4,DELANTERO,8,20/12/2001,10,Manchester United,Facundo Pellistri,3,0,0,2.97,0.0,0.99,1.98,0.0,0.0,Nike
+31,Uruguay,16,4,Puma,4,DELANTERO,24,01/10/1998,307,Athletico Paranaense,Agustin Canobbio,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+32,Canada,53,2,Nike,1,PORTERO,16,21/02/1997,308,CF Montreal,James Paternis,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+32,Canada,53,2,Nike,1,PORTERO,18,23/10/1987,285,Red Star Belgrade,Milan Borjan,3,0,0,0.0,0.0,0.0,0.0,53.33,0.0,Nike
+32,Canada,53,2,Nike,1,PORTERO,1,09/05/1997,309,Minnesota United,Dayne St Clair,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+32,Canada,53,2,Nike,2,DEFENSA,2,08/10/1998,37,Celtic,Alistair Johnson,3,0,0,0.33,0.67,1.33,4.67,0.0,0.0,Adidas
+32,Canada,53,2,Nike,2,DEFENSA,3,16/01/1995,310,Hatayspor,Sam Adekugbe,3,0,0,0.95,0.95,0.0,4.73,0.0,0.0,Adidas
+32,Canada,53,2,Nike,2,DEFENSA,4,16/05/1997,311,Montreal Impact,Kamal Miller,3,0,0,0.67,1.0,2.0,7.33,0.0,0.0,Nike
+32,Canada,53,2,Nike,2,DEFENSA,5,11/01/1987,312,GD Chaves,Steven Vitória,3,0,0,0.0,0.0,1.33,5.66,0.0,0.0,Nike
+32,Canada,53,2,Nike,2,DEFENSA,22,07/01/1995,313,Toronto,Richie Laryea,3,0,0,2.0,0.0,1.68,3.91,0.0,0.0,Nike
+32,Canada,53,2,Nike,2,DEFENSA,25,25/11/1997,314,Panaitolikos,Derek Cornelius,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+32,Canada,53,2,Nike,2,DEFENSA,26,24/01/1996,311,Montreal Impact,Joel Waterman,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,6,12/11/1994,311,Montreal Impact,Samuel Piette,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,7,21/12/1996,78,Porto,Stephen Eustaquio,2,0,0,0.71,1.42,2.83,5.67,0.0,0.0,Nike
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,13,08/02/1983,51,Besiktas,Atiba Hutchinson,3,0,0,0.56,0.56,2.25,9.56,0.0,0.0,Nike
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,14,04/12/1994,313,Toronto,Mark-Anthony Kaye,1,0,0,0.0,0.0,3.0,4.5,0.0,0.0,Adidas
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,21,12/06/1992,313,Toronto,Jonathan Osorio,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,24,16/01/1990,315,St. Johnstone,David Wotherspoon,1,0,0,1.0,0.0,0.0,0.0,0.0,0.0,Nike
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,8,13/02/1998,316,KMSK Deinze,Liam Fraser,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+32,Canada,53,2,Nike,3,CENTROCAMPISTA,15,06/06/2002,141,Watford,Ismael Kone,3,0,0,0.0,0.0,0.0,0.86,0.0,0.0,Nike
+32,Canada,53,2,Nike,4,DELANTERO,9,28/12/1992,317,Vancouver Whitecaps,Lucas Cavallini,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
+32,Canada,53,2,Nike,4,DELANTERO,10,05/06/1990,294,Reading,Junior Hoilett,3,0,0,1.33,0.56,4.44,8.33,0.0,0.0,Nike
+32,Canada,53,2,Nike,4,DELANTERO,11,08/02/1999,70,Club Brugge,Tajon Buchanan,3,0,1,6.21,1.03,0.34,5.17,0.0,0.0,Adidas
+32,Canada,53,2,Nike,4,DELANTERO,17,17/04/1995,70,Club Brugge,Cyle Larin,3,0,0,1.33,0.0,0.0,1.95,0.0,0.0,Nike
+32,Canada,53,2,Nike,4,DELANTERO,19,02/11/2000,21,Bayern Munich,Alphonso Davies,3,1,0,6.0,1.0,0.67,6.67,0.0,0.0,Nike
+32,Canada,53,2,Nike,4,DELANTERO,20,14/01/2000,116,Lille,Jonathan David,3,0,0,1.41,0.0,0.47,1.88,0.0,0.0,Adidas
+32,Canada,53,2,Nike,4,DELANTERO,23,27/09/1999,180,Basel,Liam Millar,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Adidas
+32,Canada,53,2,Nike,4,DELANTERO,12,21/09/1998,190,Troyes,Ike Ugbo,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nike
